@@ -1,0 +1,22 @@
+============================================================
+  Tech Layoffs — Random Forest Classifier Report
+============================================================
+
+Target Variable : Layoff Severity (Low / Medium / High)
+Features Used   : 10
+Training Samples: 1200
+Test Samples    : 300
+
+Test Accuracy   : 0.3867
+CV Accuracy     : 0.3793 ± 0.0071
+
+Classification Report:
+              precision    recall  f1-score   support
+
+        High       0.37      0.43      0.39       108
+         Low       0.12      0.11      0.11        57
+      Medium       0.51      0.47      0.49       135
+
+    accuracy                           0.39       300
+   macro avg       0.33      0.34      0.33       300
+weighted avg       0.38      0.39      0.38       300

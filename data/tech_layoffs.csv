@@ -1,0 +1,1501 @@
+company,industry,country,year,month,stage,company_size,layoffs_count,layoffs_pct,funds_raised_m,reason,stock_impact_pct,severity
+Unity,AI/ML,UK,2023,3,Series B,39062,1947,0.0499,147.0,Cost Cutting,,Low
+IBM,Social Media,Germany,2022,10,Public,20669,3572,0.1728,4724.5,Over-hiring Post-COVID,-6.19,High
+Lyft,Hardware,India,2022,5,Series B,22104,1970,0.0892,157.4,IPO Preparation,,Medium
+Zoom,HealthTech,USA,2022,9,Public,90170,901,0.01,2651.6,IPO Preparation,-19.66,Low
+Uber,AI/ML,USA,2023,4,Public,115105,24565,0.2134,4288.1,Market Downturn,4.04,High
+Dropbox,Cybersecurity,France,2023,1,Public,89238,5175,0.058,8295.8,Cost Cutting,-8.5,Medium
+Cisco,SaaS,USA,2024,4,Public,132256,6829,0.0516,5136.6,Over-hiring Post-COVID,-5.56,Medium
+Cisco,HealthTech,Australia,2022,6,Public,128640,11288,0.0878,5252.6,Over-hiring Post-COVID,-10.77,Medium
+LinkedIn,Cloud Computing,Germany,2023,5,Public,103037,14608,0.1418,9611.9,IPO Preparation,1.36,Medium
+Bolt,Cybersecurity,Canada,2023,1,Series C,111801,12903,0.1154,132.1,Merger/Acquisition,,Medium
+LinkedIn,AI/ML,Canada,2023,4,Public,8507,1393,0.1638,6592.9,IPO Preparation,-7.63,High
+Google,Social Media,USA,2023,6,Series D+,115415,1482,0.0128,1332.5,Merger/Acquisition,,Low
+Shopify,Hardware,Germany,2022,10,Series D+,117919,7146,0.0606,696.0,IPO Preparation,,Medium
+Amazon,AI/ML,France,2023,10,Series A,42287,4682,0.1107,53.8,IPO Preparation,,Medium
+LinkedIn,HealthTech,USA,2021,4,Series A,50082,13613,0.2718,24.3,Over-hiring Post-COVID,,High
+Twilio,HealthTech,Brazil,2022,9,Series D+,84129,9329,0.1109,580.2,Merger/Acquisition,,Medium
+Getir,Hardware,UK,2023,5,Public,6282,1299,0.2068,5769.9,Over-hiring Post-COVID,-12.97,High
+Amazon,FinTech,USA,2023,8,Public,67270,8279,0.1231,6597.1,Cost Cutting,-4.3,Medium
+Zoom,Social Media,USA,2024,9,Private Equity,58145,4727,0.0813,2172.6,IPO Preparation,,Medium
+Better.com,Logistics,Singapore,2023,10,Public,104009,10428,0.1003,8139.3,Restructuring,2.0,Medium
+Intel,Cybersecurity,USA,2023,5,Public,29704,3164,0.1065,4865.1,Merger/Acquisition,-14.74,Medium
+Shopify,E-Commerce,France,2023,6,Public,17652,2970,0.1683,7387.2,Product Pivot,-9.13,High
+PayPal,Hardware,Netherlands,2023,1,Public,91055,20939,0.23,4315.4,Regulatory Pressure,-6.4,High
+Robinhood,Social Media,USA,2020,11,Public,20189,3003,0.1488,6804.2,Product Pivot,-3.52,Medium
+Coinbase,E-Commerce,USA,2022,12,Series B,83751,18003,0.215,130.0,Product Pivot,,High
+SAP,Social Media,Canada,2022,7,Public,107065,4584,0.0428,5891.4,Restructuring,-4.11,Low
+IBM,Social Media,USA,2023,4,Series C,39212,3404,0.0868,350.8,Over-hiring Post-COVID,,Medium
+Google,AI/ML,Australia,2020,11,Public,50132,3110,0.0621,1790.6,Over-hiring Post-COVID,-8.02,Medium
+Gorillas,Social Media,USA,2021,2,Public,20978,3045,0.1452,2751.8,Regulatory Pressure,1.17,Medium
+Spotify,FinTech,UK,2022,5,Series A,23051,2104,0.0913,41.6,Regulatory Pressure,,Medium
+Zoom,Logistics,Canada,2024,12,Public,48568,8663,0.1784,1625.4,Market Downturn,-5.1,High
+Stripe,HealthTech,USA,2022,3,Series B,94108,4283,0.0455,159.9,Regulatory Pressure,,Low
+Airbnb,Gaming,USA,2023,6,Series D+,36061,4451,0.1234,1078.9,Product Pivot,,Medium
+Microsoft,E-Commerce,USA,2022,8,Public,134464,23524,0.1749,5654.3,Product Pivot,1.16,High
+PayPal,HealthTech,USA,2023,7,Private Equity,24895,248,0.01,827.3,Over-hiring Post-COVID,,Low
+HP,Gaming,UK,2022,3,Public,19256,5579,0.2897,7760.3,Product Pivot,4.39,High
+Stripe,Logistics,Australia,2022,8,Series A,66833,6506,0.0973,72.6,Over-hiring Post-COVID,,Medium
+eBay,Logistics,USA,2023,2,Public,114061,1140,0.01,5294.2,IPO Preparation,6.53,Low
+Amazon,E-Commerce,UK,2020,10,Series A,28524,3783,0.1326,48.2,IPO Preparation,,Medium
+Netflix,E-Commerce,India,2020,9,Public,6447,790,0.1227,5403.5,Over-hiring Post-COVID,4.39,Medium
+Coinbase,Logistics,USA,2022,4,Series D+,127692,14486,0.1134,969.7,Merger/Acquisition,,Medium
+Spotify,Gaming,USA,2020,1,Series B,94738,18880,0.1993,114.3,Over-hiring Post-COVID,,High
+Lyft,Hardware,Singapore,2021,8,Private Equity,67928,12213,0.1798,1479.3,Cost Cutting,,High
+Klarna,Social Media,Canada,2022,7,Series A,63855,9184,0.1438,54.5,Cost Cutting,,Medium
+HP,Cybersecurity,Germany,2024,11,Series B,130458,20353,0.156,232.6,Cost Cutting,,High
+Oracle,SaaS,India,2023,5,Series A,144990,16188,0.1117,17.6,Cost Cutting,,Medium
+Bolt,Cloud Computing,USA,2023,10,Public,136405,35743,0.262,4792.4,Restructuring,-1.55,High
+Microsoft,SaaS,Germany,2022,5,Public,132137,1321,0.01,2639.1,Market Downturn,-3.13,Low
+Amazon,HealthTech,UK,2024,7,Public,18902,2479,0.1312,8184.0,Market Downturn,-9.73,Medium
+Salesforce,AI/ML,UK,2022,5,Series D+,76351,9559,0.1252,611.9,Over-hiring Post-COVID,,Medium
+Microsoft,HealthTech,USA,2021,8,Series D+,13334,2467,0.1851,338.2,IPO Preparation,,High
+Unity,AI/ML,USA,2023,11,Series D+,68350,3587,0.0525,1004.2,Product Pivot,,Medium
+Airbnb,Gaming,USA,2021,6,Public,37680,376,0.01,8488.6,Cost Cutting,4.4,Low
+eBay,AI/ML,Singapore,2022,5,Series C,135455,17953,0.1325,379.6,Market Downturn,,Medium
+Opendoor,E-Commerce,USA,2023,9,Public,110188,15701,0.1425,5409.6,Market Downturn,1.79,Medium
+Snap,Hardware,UK,2024,11,Public,107020,25595,0.2392,5818.3,Cost Cutting,-3.9,High
+Bolt,Cybersecurity,USA,2023,2,Series D+,12195,224,0.0184,1252.7,IPO Preparation,,Low
+HP,Cybersecurity,USA,2023,1,Series B,127635,27106,0.2124,78.0,Restructuring,,High
+Peloton,E-Commerce,Canada,2024,8,Series B,58981,18248,0.3094,114.6,Restructuring,,High
+IBM,Hardware,UK,2021,12,Series C,73938,6638,0.0898,245.7,Regulatory Pressure,,Medium
+Lyft,FinTech,UK,2022,3,Public,111991,1873,0.0167,2664.3,Market Downturn,-3.23,Low
+HP,SaaS,USA,2022,11,Series D+,149145,13041,0.0874,694.9,Regulatory Pressure,,Medium
+Dropbox,Gaming,Canada,2022,12,Public,122344,14818,0.1211,7215.4,Restructuring,0.77,Medium
+Zoom,SaaS,USA,2022,12,Series D+,95410,15752,0.1651,981.3,Merger/Acquisition,,High
+SAP,FinTech,USA,2024,12,Series D+,56994,4142,0.0727,1006.2,Cost Cutting,,Medium
+Airbnb,FinTech,UK,2023,7,Public,143860,35161,0.2444,5293.0,IPO Preparation,-5.91,High
+LinkedIn,HealthTech,USA,2023,10,Public,47478,1464,0.0308,6046.6,Market Downturn,-3.28,Low
+eBay,Logistics,USA,2022,11,Private Equity,118345,1183,0.01,1019.6,Cost Cutting,,Low
+PayPal,HealthTech,India,2024,8,Private Equity,131121,27343,0.2085,1314.3,Restructuring,,High
+Unity,Logistics,India,2024,6,Series D+,55172,551,0.01,861.4,Cost Cutting,,Low
+IBM,Cloud Computing,Australia,2024,12,Public,62321,6460,0.1037,5555.0,Restructuring,-2.05,Medium
+Meta,AI/ML,USA,2020,10,Public,84161,31090,0.3694,5640.4,IPO Preparation,-3.28,High
+PayPal,Hardware,USA,2023,9,Series D+,69724,8299,0.119,755.7,Restructuring,,Medium
+Spotify,Logistics,USA,2020,7,Private Equity,89905,2727,0.0303,1273.5,Cost Cutting,,Low
+Stripe,SaaS,Brazil,2022,10,Public,55296,6381,0.1154,11315.5,IPO Preparation,-6.38,Medium
+LinkedIn,E-Commerce,Germany,2020,5,Series B,129054,14961,0.1159,163.5,Restructuring,,Medium
+Meta,HealthTech,India,2023,8,Public,124277,16510,0.1329,5826.3,Regulatory Pressure,-6.7,Medium
+Lyft,Hardware,USA,2023,2,Private Equity,4523,782,0.173,1360.1,Merger/Acquisition,,High
+LinkedIn,Gaming,UK,2021,7,Series D+,73459,2708,0.0369,655.6,Over-hiring Post-COVID,,Low
+Cisco,Hardware,USA,2022,4,Series B,39718,10128,0.255,113.7,Cost Cutting,,High
+Oracle,AI/ML,Germany,2023,9,Public,143785,20073,0.1396,5585.7,Over-hiring Post-COVID,-4.0,Medium
+Lyft,Cloud Computing,Singapore,2022,12,Series C,28960,5159,0.1781,74.3,Cost Cutting,,High
+Klarna,Logistics,Brazil,2021,1,Public,125079,8724,0.0697,1861.2,Restructuring,-5.8,Medium
+Klarna,Cloud Computing,UK,2022,7,Public,65180,14529,0.2229,3726.2,Restructuring,-5.2,High
+Better.com,Gaming,UK,2023,6,Private Equity,31517,3133,0.0994,1624.3,IPO Preparation,,Medium
+Twitter/X,FinTech,Singapore,2020,8,Series A,92538,13159,0.1422,36.2,Market Downturn,,Medium
+Coinbase,Cybersecurity,India,2021,5,Series A,20015,907,0.0454,63.6,Merger/Acquisition,,Low
+Spotify,Gaming,USA,2022,1,Series C,139206,5602,0.0402,122.1,Regulatory Pressure,,Low
+Stripe,EdTech,UK,2024,1,Series B,33501,5864,0.1751,83.9,Market Downturn,,High
+Lyft,Gaming,USA,2023,9,Public,1891,159,0.0845,8040.2,Over-hiring Post-COVID,-3.82,Medium
+Intel,Cloud Computing,UK,2023,10,Public,109888,5680,0.0517,5262.2,Restructuring,-11.37,Medium
+Opendoor,Hardware,UK,2022,6,Public,42715,2927,0.0685,6769.7,Market Downturn,-1.64,Medium
+Better.com,E-Commerce,Germany,2023,10,Series C,80220,14112,0.1759,546.1,Restructuring,,High
+Dropbox,HealthTech,USA,2020,5,Series D+,27614,1924,0.0697,578.0,Cost Cutting,,Medium
+LinkedIn,E-Commerce,USA,2023,1,Public,143454,15864,0.1106,4801.4,Market Downturn,-5.36,Medium
+Gorillas,Cloud Computing,UK,2024,6,Series C,113642,13773,0.1212,267.3,Over-hiring Post-COVID,,Medium
+Klarna,HealthTech,France,2023,6,Series B,148845,1488,0.01,26.2,IPO Preparation,,Low
+Shopify,EdTech,India,2024,3,Series D+,106706,1067,0.01,700.7,Market Downturn,,Low
+Robinhood,Cybersecurity,USA,2023,8,Public,46147,6779,0.1469,6762.1,Restructuring,3.68,Medium
+Klarna,AI/ML,Singapore,2021,1,Public,43179,2635,0.061,6081.2,Product Pivot,-2.08,Medium
+Meta,SaaS,Netherlands,2024,1,Public,927,189,0.2045,6238.2,Product Pivot,-6.31,High
+Klarna,Cloud Computing,USA,2020,6,Public,130169,25688,0.1973,4249.0,IPO Preparation,-4.75,High
+Gorillas,Hardware,USA,2023,10,Series C,66767,11853,0.1775,221.3,IPO Preparation,,High
+HP,Logistics,Canada,2021,1,Series C,1299,344,0.2656,452.3,Merger/Acquisition,,High
+Google,Cloud Computing,Australia,2020,6,Series C,56159,6365,0.1134,240.3,IPO Preparation,,Medium
+Meta,Cloud Computing,Brazil,2022,1,Series D+,7525,1293,0.1719,894.1,Restructuring,,High
+Twitter/X,HealthTech,Netherlands,2022,6,Series B,14981,1097,0.0732,127.8,Regulatory Pressure,,Medium
+eBay,Social Media,Germany,2023,3,Public,25911,8192,0.3162,7923.4,Cost Cutting,-6.47,High
+HP,Gaming,UK,2023,8,Series D+,106428,29660,0.2787,1110.9,Market Downturn,,High
+Robinhood,Hardware,USA,2020,6,Series B,123514,14939,0.121,57.8,IPO Preparation,,Medium
+Stripe,Social Media,USA,2021,11,Public,146533,22115,0.1509,2624.9,Product Pivot,-7.65,High
+IBM,EdTech,UK,2023,1,Public,52190,11938,0.2287,6157.8,Cost Cutting,-0.54,High
+IBM,Logistics,Germany,2022,5,Series A,53370,5776,0.1082,39.0,Regulatory Pressure,,Medium
+eBay,Cybersecurity,Germany,2023,8,Public,87428,5898,0.0675,4089.7,Restructuring,-4.54,Medium
+Dell,FinTech,Canada,2023,3,Series C,71265,13534,0.1899,421.9,Cost Cutting,,High
+Wayfair,EdTech,USA,2024,12,Public,24272,3064,0.1263,5374.9,Restructuring,2.98,Medium
+Wayfair,FinTech,Germany,2023,6,Series C,130917,17626,0.1346,306.3,Regulatory Pressure,,Medium
+Microsoft,Hardware,USA,2022,5,Public,19299,1027,0.0533,6559.7,Regulatory Pressure,-6.65,Medium
+Twilio,Hardware,USA,2023,6,Public,112551,1125,0.01,4249.8,Merger/Acquisition,-7.82,Low
+Gorillas,FinTech,Canada,2022,10,Series C,130441,18117,0.1389,488.2,Market Downturn,,Medium
+Dropbox,Hardware,India,2022,1,Public,24055,4628,0.1924,3423.9,Cost Cutting,-4.52,High
+IBM,Cybersecurity,Brazil,2023,7,Series D+,92652,9444,0.1019,1010.2,Regulatory Pressure,,Medium
+Unity,E-Commerce,USA,2022,9,Public,127719,30003,0.2349,7867.7,Market Downturn,-7.57,High
+Bolt,Social Media,UK,2023,2,Public,135833,8650,0.0637,2245.4,Cost Cutting,-7.35,Medium
+Dell,Cloud Computing,USA,2024,10,Public,120333,4286,0.0356,4313.3,Restructuring,-1.9,Low
+Wayfair,AI/ML,USA,2024,5,Public,69502,7966,0.1146,7284.4,Regulatory Pressure,-10.08,Medium
+Spotify,FinTech,France,2024,10,Series A,47053,5335,0.1134,58.5,Restructuring,,Medium
+Shopify,Logistics,India,2022,4,Public,3588,651,0.1816,4657.0,Cost Cutting,-6.17,High
+Coinbase,EdTech,Netherlands,2022,6,Series D+,46283,2684,0.058,564.9,Merger/Acquisition,,Medium
+Amazon,E-Commerce,USA,2023,6,Public,1615,370,0.2294,6911.9,Restructuring,-10.18,High
+Salesforce,FinTech,France,2022,11,Public,73408,20359,0.2774,7367.1,Over-hiring Post-COVID,-3.56,High
+Coinbase,E-Commerce,USA,2023,2,Series A,69609,8135,0.1169,21.4,Over-hiring Post-COVID,,Medium
+Coinbase,E-Commerce,Netherlands,2023,2,Public,3478,765,0.22,2592.2,Market Downturn,-3.75,High
+Netflix,FinTech,USA,2023,4,Private Equity,109443,3883,0.0355,1635.2,IPO Preparation,,Low
+Twilio,HealthTech,USA,2022,1,Public,9922,2044,0.206,6258.7,Over-hiring Post-COVID,-2.61,High
+Cisco,Gaming,UK,2022,9,Series B,89733,18285,0.2038,105.6,Over-hiring Post-COVID,,High
+Coinbase,Logistics,Singapore,2022,7,Series D+,56674,10715,0.1891,1017.4,Merger/Acquisition,,High
+PayPal,Cloud Computing,USA,2021,12,Series A,38243,4541,0.1188,28.6,Merger/Acquisition,,Medium
+Better.com,Cloud Computing,USA,2024,7,Series C,130788,1307,0.01,46.2,IPO Preparation,,Low
+Meta,Logistics,France,2022,3,Series D+,129500,8891,0.0687,664.4,Product Pivot,,Medium
+Robinhood,HealthTech,USA,2022,11,Public,123278,8620,0.0699,5126.5,IPO Preparation,-0.06,Medium
+Dell,Hardware,USA,2020,12,Public,29930,1249,0.0417,4448.3,Product Pivot,-0.45,Low
+Google,Cloud Computing,USA,2023,3,Series A,29334,3806,0.1298,21.5,Merger/Acquisition,,Medium
+Salesforce,E-Commerce,USA,2023,1,Public,24935,2156,0.0865,1368.7,Product Pivot,-13.25,Medium
+Lyft,Cybersecurity,Netherlands,2022,3,Series D+,87712,4739,0.054,635.5,Merger/Acquisition,,Medium
+Robinhood,EdTech,Canada,2020,3,Series B,56297,1987,0.0353,163.1,Product Pivot,,Low
+Stripe,Social Media,UK,2022,4,Public,55055,3455,0.0628,7512.4,Restructuring,-10.19,Medium
+Gorillas,Cloud Computing,Brazil,2022,4,Private Equity,85850,18004,0.2097,2212.6,Merger/Acquisition,,High
+Better.com,Logistics,UK,2023,3,Series B,15216,1021,0.0671,80.8,IPO Preparation,,Medium
+LinkedIn,Cybersecurity,USA,2023,10,Series C,60761,4788,0.0788,161.6,Market Downturn,,Medium
+IBM,FinTech,USA,2022,12,Series A,2495,208,0.0835,47.9,Market Downturn,,Medium
+Wayfair,Gaming,USA,2022,8,Public,22914,3371,0.1471,6270.2,Merger/Acquisition,-2.29,Medium
+Wayfair,Logistics,USA,2024,8,Public,145416,22757,0.1565,5800.3,Over-hiring Post-COVID,0.83,High
+LinkedIn,Hardware,Singapore,2023,1,Series D+,16022,160,0.01,155.5,Regulatory Pressure,,Low
+Intel,E-Commerce,Canada,2023,7,Public,130132,26251,0.2017,3266.2,Market Downturn,-7.69,High
+Amazon,Gaming,USA,2021,11,Series B,74534,17508,0.2349,118.6,IPO Preparation,,High
+Google,EdTech,Germany,2023,2,Series A,42822,1540,0.036,47.8,Over-hiring Post-COVID,,Low
+Gorillas,EdTech,Canada,2020,1,Series D+,68138,2876,0.0422,1045.5,Market Downturn,,Low
+Oracle,HealthTech,Singapore,2023,3,Public,101834,8551,0.084,5288.5,Regulatory Pressure,-3.09,Medium
+Amazon,AI/ML,Netherlands,2024,4,Private Equity,140096,8338,0.0595,1698.5,Cost Cutting,,Medium
+Amazon,HealthTech,UK,2022,6,Series D+,31346,4323,0.1379,827.2,Cost Cutting,,Medium
+Coinbase,Hardware,Canada,2020,10,Series D+,74143,741,0.01,1019.4,Merger/Acquisition,,Low
+Dropbox,Cybersecurity,Germany,2020,5,Series D+,115430,3528,0.0306,900.1,Regulatory Pressure,,Low
+Gorillas,Gaming,Germany,2022,4,Series A,24899,6053,0.2431,41.1,IPO Preparation,,High
+Wayfair,AI/ML,USA,2022,8,Series C,123682,5657,0.0457,267.8,IPO Preparation,,Low
+Better.com,FinTech,USA,2020,11,Series B,49091,10774,0.2195,123.9,Market Downturn,,High
+Meta,E-Commerce,UK,2023,12,Series B,36377,5399,0.1484,143.3,Restructuring,,Medium
+Uber,Gaming,USA,2023,4,Public,84606,846,0.01,5535.0,Over-hiring Post-COVID,-5.37,Low
+Amazon,HealthTech,USA,2022,10,Series D+,78518,13412,0.1708,921.9,Regulatory Pressure,,High
+eBay,Social Media,Canada,2024,12,Series B,100354,11097,0.1106,184.5,Market Downturn,,Medium
+Wayfair,SaaS,USA,2021,2,Series D+,121332,10138,0.0836,884.9,Merger/Acquisition,,Medium
+Salesforce,AI/ML,Germany,2024,3,Series B,87076,12155,0.1396,88.8,Regulatory Pressure,,Medium
+Wayfair,AI/ML,UK,2022,6,Private Equity,93008,14692,0.158,2030.2,Over-hiring Post-COVID,,High
+Microsoft,Hardware,Brazil,2024,8,Series C,47335,8359,0.1766,136.1,Product Pivot,,High
+Cisco,E-Commerce,UK,2023,8,Series B,42964,9205,0.2143,68.1,Merger/Acquisition,,High
+Oracle,Cloud Computing,USA,2024,11,Series B,112954,17242,0.1527,136.1,Market Downturn,,High
+Getir,EdTech,Germany,2024,9,Series B,116562,1165,0.01,144.8,Restructuring,,Low
+LinkedIn,EdTech,France,2022,7,Series D+,67945,5578,0.0821,401.6,Regulatory Pressure,,Medium
+Twitter/X,Social Media,Brazil,2024,2,Public,110954,39437,0.3554,4234.4,Product Pivot,-3.87,High
+Opendoor,Cybersecurity,USA,2022,8,Series D+,122406,21783,0.178,606.1,Merger/Acquisition,,High
+Salesforce,Hardware,USA,2022,7,Series C,98884,30608,0.3095,241.6,Market Downturn,,High
+Shopify,Cybersecurity,Netherlands,2022,8,Series D+,60532,14021,0.2316,1102.0,Cost Cutting,,High
+Cisco,FinTech,USA,2023,12,Series B,114021,15888,0.1393,153.9,IPO Preparation,,Medium
+SAP,Gaming,Germany,2022,3,Series D+,116878,16843,0.1441,793.9,Market Downturn,,Medium
+Better.com,SaaS,USA,2023,7,Series C,17640,2065,0.1171,234.5,Cost Cutting,,Medium
+Stripe,Logistics,USA,2023,10,Public,3170,31,0.01,2300.7,Cost Cutting,-6.14,Low
+Salesforce,Cloud Computing,USA,2023,9,Series B,37019,4495,0.1214,188.2,Merger/Acquisition,,Medium
+SAP,HealthTech,USA,2024,3,Series D+,45012,9761,0.2169,989.5,Market Downturn,,High
+Unity,Logistics,India,2022,10,Public,104065,7495,0.072,3586.7,IPO Preparation,4.63,Medium
+Google,Logistics,Singapore,2022,6,Public,146263,22371,0.153,6439.2,Market Downturn,-10.31,High
+Netflix,Hardware,USA,2022,2,Series B,105656,19876,0.1881,116.6,Cost Cutting,,High
+Bolt,AI/ML,Australia,2022,2,Series D+,26095,1232,0.0472,708.1,Over-hiring Post-COVID,,Low
+Uber,Social Media,USA,2020,5,Public,9130,765,0.0839,5870.4,Product Pivot,-3.32,Medium
+eBay,EdTech,UK,2022,5,Private Equity,107961,4163,0.0386,1055.1,Restructuring,,Low
+Google,FinTech,USA,2022,7,Series C,74691,4050,0.0542,258.7,Market Downturn,,Medium
+Uber,Cybersecurity,Singapore,2024,12,Private Equity,101091,1717,0.017,1572.9,Product Pivot,,Low
+Netflix,SaaS,Canada,2023,2,Series D+,64253,3081,0.048,640.2,Product Pivot,,Low
+Wayfair,Hardware,India,2022,11,Series D+,61020,14251,0.2336,1014.1,Regulatory Pressure,,High
+Spotify,Social Media,Australia,2023,7,Series A,4508,210,0.0468,69.9,Over-hiring Post-COVID,,Low
+Better.com,AI/ML,India,2021,5,Series D+,107908,14040,0.1301,558.6,Product Pivot,,Medium
+Airbnb,HealthTech,Brazil,2022,6,Series C,996,79,0.0798,100.2,Market Downturn,,Medium
+Meta,FinTech,Canada,2023,8,Public,100267,21488,0.2143,996.5,Merger/Acquisition,-2.99,High
+Cisco,Hardware,Singapore,2023,10,Series D+,23712,5332,0.2249,751.9,Merger/Acquisition,,High
+Coinbase,AI/ML,UK,2022,12,Public,21137,3997,0.1891,3673.7,Regulatory Pressure,-8.85,High
+PayPal,SaaS,USA,2024,4,Public,45727,6607,0.1445,5415.7,Product Pivot,-0.07,Medium
+Dropbox,EdTech,UK,2024,7,Public,120253,12207,0.1015,5265.2,Market Downturn,-5.49,Medium
+Peloton,EdTech,USA,2023,6,Public,120618,2973,0.0247,1793.6,Market Downturn,-15.96,Low
+Twilio,Hardware,Germany,2023,10,Private Equity,10384,2860,0.2755,411.1,Cost Cutting,,High
+Klarna,EdTech,UK,2023,2,Public,116981,6928,0.0592,5591.9,Over-hiring Post-COVID,-9.08,Medium
+Spotify,Social Media,Germany,2022,8,Series C,68759,11901,0.1731,316.3,IPO Preparation,,High
+SAP,Social Media,USA,2022,10,Series B,50310,10301,0.2048,99.6,Restructuring,,High
+eBay,Cybersecurity,USA,2020,9,Series C,130426,9857,0.0756,101.1,IPO Preparation,,Medium
+Amazon,Hardware,UK,2023,5,Public,5261,1068,0.203,5942.8,Regulatory Pressure,1.09,High
+Meta,Cybersecurity,Singapore,2023,10,Series C,16875,3056,0.1811,452.6,Cost Cutting,,High
+Intel,Hardware,USA,2022,4,Series C,103154,26638,0.2582,333.4,Restructuring,,High
+Twitter/X,HealthTech,USA,2024,6,Series B,33475,2760,0.0825,79.3,IPO Preparation,,Medium
+Gorillas,Hardware,Canada,2024,8,Series B,133455,2286,0.0171,122.1,Market Downturn,,Low
+Wayfair,SaaS,Germany,2023,11,Private Equity,74989,5966,0.0796,680.3,Merger/Acquisition,,Medium
+Stripe,FinTech,USA,2023,3,Series C,8881,1214,0.1367,427.0,Cost Cutting,,Medium
+Klarna,E-Commerce,USA,2024,10,Public,145367,18121,0.1247,5163.7,IPO Preparation,1.63,Medium
+Uber,E-Commerce,USA,2021,11,Series C,63499,5621,0.0885,87.8,Regulatory Pressure,,Medium
+SAP,AI/ML,Brazil,2023,11,Public,50407,504,0.01,4398.7,Product Pivot,-1.92,Low
+Google,EdTech,USA,2021,1,Series A,141210,22260,0.1576,47.4,Regulatory Pressure,,High
+Netflix,FinTech,USA,2023,4,Public,70967,19713,0.2778,4333.9,Regulatory Pressure,-4.26,High
+LinkedIn,Logistics,USA,2022,4,Public,43123,6776,0.1571,4448.2,Regulatory Pressure,-14.27,High
+Better.com,Social Media,USA,2024,1,Series B,111224,18766,0.1687,61.2,Product Pivot,,High
+LinkedIn,Gaming,Australia,2024,9,Series C,103569,17171,0.1658,368.0,Restructuring,,High
+Cisco,Cloud Computing,USA,2021,3,Series D+,20496,3110,0.1518,592.5,Market Downturn,,High
+Lyft,HealthTech,USA,2023,5,Series D+,106182,20655,0.1945,109.9,Merger/Acquisition,,High
+Bolt,EdTech,UK,2024,6,Series A,84109,12753,0.1516,34.1,Restructuring,,High
+Getir,EdTech,USA,2023,8,Public,101990,9687,0.095,6962.3,IPO Preparation,-7.24,Medium
+Netflix,SaaS,USA,2024,6,Series A,71825,4045,0.0563,33.8,IPO Preparation,,Medium
+Klarna,EdTech,Australia,2023,3,Public,29430,2945,0.1001,8476.0,Merger/Acquisition,-2.05,Medium
+PayPal,Social Media,Canada,2022,6,Series B,114926,16679,0.1451,140.6,IPO Preparation,,Medium
+Klarna,Social Media,Netherlands,2022,1,Series B,18029,1707,0.0947,136.3,Over-hiring Post-COVID,,Medium
+PayPal,Cloud Computing,France,2022,4,Public,54046,7844,0.1451,4743.2,Merger/Acquisition,-8.63,Medium
+Unity,Hardware,India,2023,6,Series D+,8442,1309,0.1551,778.1,Product Pivot,,High
+Airbnb,Logistics,USA,2022,7,Public,8048,1502,0.1867,4473.2,IPO Preparation,-1.13,High
+Airbnb,FinTech,Australia,2023,11,Series C,115748,25768,0.2226,263.7,IPO Preparation,,High
+Amazon,EdTech,France,2023,11,Series D+,149868,18919,0.1262,969.9,Cost Cutting,,Medium
+Klarna,E-Commerce,Australia,2023,10,Series C,98280,1511,0.0154,187.7,Cost Cutting,,Low
+SAP,Cybersecurity,UK,2024,3,Public,796,73,0.0924,2848.2,Cost Cutting,-1.03,Medium
+Bolt,SaaS,USA,2024,9,Public,68445,8454,0.1235,2753.6,Merger/Acquisition,-8.34,Medium
+Better.com,SaaS,France,2022,12,Public,60480,604,0.01,9091.3,Product Pivot,-2.26,Low
+Microsoft,E-Commerce,Canada,2024,12,Public,57282,13237,0.2311,6060.7,Merger/Acquisition,0.26,High
+Better.com,AI/ML,Brazil,2023,7,Series C,96882,12729,0.1314,336.5,Regulatory Pressure,,Medium
+HP,E-Commerce,USA,2023,1,Series A,53944,8119,0.1505,23.1,Market Downturn,,High
+Zoom,AI/ML,USA,2024,2,Series C,35536,8146,0.2292,374.8,Product Pivot,,High
+Netflix,Gaming,USA,2022,1,Series D+,39822,2771,0.0696,762.7,Product Pivot,,Medium
+Lyft,Cybersecurity,Australia,2021,11,Private Equity,52167,8655,0.1659,1628.5,Regulatory Pressure,,High
+Spotify,SaaS,USA,2024,9,Series C,95027,10568,0.1112,182.8,Merger/Acquisition,,Medium
+Google,E-Commerce,USA,2022,9,Private Equity,83837,8825,0.1053,1596.2,Merger/Acquisition,,Medium
+Oracle,Gaming,Brazil,2024,7,Series D+,51968,3025,0.0582,664.4,Cost Cutting,,Medium
+Better.com,Hardware,USA,2024,10,Public,73394,18586,0.2532,3468.8,Product Pivot,-2.52,High
+Intel,HealthTech,France,2020,3,Public,63638,5724,0.09,6468.2,Cost Cutting,4.83,Medium
+Shopify,FinTech,USA,2024,5,Series C,23088,4062,0.176,115.5,Market Downturn,,High
+Shopify,Gaming,France,2022,4,Public,63401,634,0.01,6129.6,Over-hiring Post-COVID,-0.38,Low
+Twilio,FinTech,Germany,2023,7,Public,149243,31997,0.2144,6369.0,Cost Cutting,0.52,High
+Getir,E-Commerce,Netherlands,2023,9,Series D+,83538,17056,0.2042,518.5,Merger/Acquisition,,High
+Getir,Logistics,Singapore,2024,12,Series C,139209,17790,0.1278,201.6,IPO Preparation,,Medium
+Lyft,Hardware,USA,2020,2,Series C,132232,13467,0.1018,273.2,Restructuring,,Medium
+Robinhood,Gaming,USA,2023,8,Public,107711,16372,0.152,5564.1,Over-hiring Post-COVID,-5.61,High
+Robinhood,Cybersecurity,USA,2023,9,Series D+,7422,2249,0.3031,751.1,Market Downturn,,High
+Opendoor,E-Commerce,India,2023,10,Series C,94197,941,0.01,352.0,IPO Preparation,,Low
+Zoom,EdTech,Netherlands,2023,10,Private Equity,117717,21490,0.1826,2557.8,Merger/Acquisition,,High
+Twilio,Social Media,UK,2021,9,Series C,70006,3295,0.0471,239.1,Over-hiring Post-COVID,,Low
+Better.com,Gaming,Germany,2022,10,Series A,124838,14781,0.1184,12.6,Regulatory Pressure,,Medium
+Coinbase,Cybersecurity,USA,2022,7,Series B,28343,2839,0.1002,159.6,Merger/Acquisition,,Medium
+Better.com,HealthTech,Australia,2024,9,Series C,140618,12055,0.0857,502.0,Cost Cutting,,Medium
+Twitter/X,EdTech,Brazil,2022,9,Public,103564,12340,0.1192,5785.5,IPO Preparation,-1.34,Medium
+Uber,HealthTech,USA,2022,3,Series C,126917,3714,0.0293,169.5,Merger/Acquisition,,Low
+Microsoft,E-Commerce,UK,2024,4,Series C,117085,23690,0.2023,285.1,IPO Preparation,,High
+Klarna,Social Media,USA,2020,2,Series C,30846,308,0.01,165.8,Market Downturn,,Low
+Oracle,Gaming,Germany,2024,10,Series D+,123652,20177,0.1632,1005.7,Restructuring,,High
+Coinbase,Gaming,UK,2023,3,Series D+,112269,10539,0.0939,367.6,Cost Cutting,,Medium
+Twilio,Logistics,USA,2024,11,Public,102891,2708,0.0263,4399.7,Cost Cutting,-7.18,Low
+Unity,SaaS,USA,2022,11,Series D+,73643,10029,0.1362,478.6,IPO Preparation,,Medium
+Salesforce,Logistics,USA,2020,5,Public,37287,372,0.01,5253.6,Market Downturn,-3.89,Low
+Klarna,E-Commerce,UK,2023,5,Series B,34083,4198,0.1232,102.4,Market Downturn,,Medium
+Gorillas,E-Commerce,Germany,2024,6,Public,144135,1441,0.01,5353.5,Over-hiring Post-COVID,-4.15,Low
+LinkedIn,Social Media,USA,2023,7,Public,122443,19211,0.1569,5044.7,Restructuring,-4.17,High
+Unity,Logistics,Canada,2021,7,Series D+,111733,5145,0.0461,484.3,Merger/Acquisition,,Low
+Peloton,Cybersecurity,Canada,2023,1,Series C,15425,1294,0.0839,375.2,Over-hiring Post-COVID,,Medium
+Klarna,Cybersecurity,USA,2023,2,Series D+,83684,12009,0.1435,784.4,Merger/Acquisition,,Medium
+Better.com,Social Media,USA,2023,12,Public,77015,4482,0.0582,3022.9,Merger/Acquisition,-4.37,Medium
+Zoom,Hardware,Canada,2023,9,Series C,136927,15796,0.1154,568.9,Merger/Acquisition,,Medium
+Wayfair,SaaS,Singapore,2024,10,Public,46569,465,0.01,5952.9,Over-hiring Post-COVID,-10.16,Low
+Dropbox,Cybersecurity,USA,2023,2,Private Equity,101354,17277,0.1705,1408.0,Cost Cutting,,High
+Better.com,AI/ML,USA,2021,6,Series A,54971,14358,0.2612,62.6,Market Downturn,,High
+Google,FinTech,USA,2023,11,Series D+,33205,11401,0.3434,1389.4,Cost Cutting,,High
+Airbnb,Social Media,Germany,2020,11,Public,129001,16420,0.1273,4709.3,Restructuring,0.32,Medium
+PayPal,Social Media,USA,2022,1,Series B,116861,21392,0.1831,136.7,Over-hiring Post-COVID,,High
+Peloton,Cloud Computing,USA,2022,3,Public,87773,877,0.01,3024.0,Regulatory Pressure,-2.88,Low
+Google,EdTech,India,2020,2,Series D+,23741,5703,0.2402,752.9,Restructuring,,High
+LinkedIn,EdTech,Germany,2022,3,Public,51318,9344,0.1821,4601.9,Market Downturn,-2.42,High
+Wayfair,AI/ML,USA,2021,5,Series A,92807,7543,0.0813,43.0,Market Downturn,,Medium
+Shopify,Logistics,USA,2024,11,Public,67420,14763,0.219,5665.5,Product Pivot,-1.67,High
+Dropbox,Hardware,Germany,2024,10,Series C,119142,11871,0.0996,367.2,Restructuring,,Medium
+Amazon,E-Commerce,USA,2020,6,Series B,65953,5497,0.0834,131.4,Regulatory Pressure,,Medium
+Robinhood,E-Commerce,USA,2024,9,Series D+,23189,3664,0.158,412.6,Cost Cutting,,High
+Amazon,HealthTech,Netherlands,2023,12,Public,139824,4884,0.0349,3123.1,IPO Preparation,-11.84,Low
+eBay,AI/ML,USA,2022,11,Private Equity,31344,6323,0.2017,1172.2,Regulatory Pressure,,High
+Oracle,Social Media,India,2020,10,Series D+,96187,3416,0.0355,709.7,Restructuring,,Low
+Better.com,AI/ML,Singapore,2023,12,Series C,23865,859,0.036,426.1,Over-hiring Post-COVID,,Low
+Stripe,AI/ML,USA,2023,12,Public,137598,6498,0.0472,2674.1,Market Downturn,-4.07,Low
+Unity,AI/ML,USA,2023,4,Series D+,98803,17859,0.1808,685.6,Market Downturn,,High
+eBay,EdTech,Germany,2020,7,Series D+,29023,2050,0.0707,1105.0,Restructuring,,Medium
+Klarna,AI/ML,Netherlands,2020,6,Public,142054,1727,0.0122,4400.2,Regulatory Pressure,-7.21,Low
+PayPal,SaaS,Singapore,2022,2,Public,112605,8056,0.0715,5920.8,Restructuring,-6.03,Medium
+LinkedIn,FinTech,Canada,2022,10,Series B,49388,5799,0.1174,113.3,Merger/Acquisition,,Medium
+Dell,E-Commerce,USA,2022,11,Public,114384,2919,0.0255,5513.6,Restructuring,-4.62,Low
+Spotify,HealthTech,India,2022,11,Public,107468,2994,0.0279,4543.1,Merger/Acquisition,1.88,Low
+Bolt,FinTech,USA,2024,11,Series D+,50610,14621,0.2889,1013.5,Regulatory Pressure,,High
+Netflix,HealthTech,UK,2024,8,Series B,132065,6755,0.0512,45.8,Over-hiring Post-COVID,,Medium
+Meta,Cloud Computing,USA,2022,7,Public,82501,7768,0.0942,4273.4,Over-hiring Post-COVID,3.78,Medium
+Lyft,HealthTech,USA,2024,7,Series C,40267,3649,0.0906,335.6,Cost Cutting,,Medium
+SAP,E-Commerce,Australia,2022,8,Public,30050,2593,0.0863,6067.4,Restructuring,-4.43,Medium
+HP,E-Commerce,UK,2023,12,Public,145405,24676,0.1697,7985.9,Regulatory Pressure,7.36,High
+Intel,AI/ML,USA,2022,12,Public,134542,26350,0.1959,4218.0,Regulatory Pressure,3.72,High
+Dropbox,Gaming,USA,2023,11,Series B,98815,9439,0.0955,191.0,Cost Cutting,,Medium
+IBM,Cloud Computing,France,2024,1,Public,95994,2023,0.0211,3682.0,IPO Preparation,-1.56,Low
+Coinbase,SaaS,Canada,2023,1,Public,127924,28393,0.222,7657.3,Regulatory Pressure,-3.5,High
+Opendoor,Social Media,USA,2022,8,Series D+,114355,12850,0.1124,1061.6,Product Pivot,,Medium
+Amazon,Cybersecurity,USA,2023,4,Series B,83181,21496,0.2584,76.2,Over-hiring Post-COVID,,High
+Wayfair,HealthTech,USA,2021,5,Public,101989,1019,0.01,5614.1,Market Downturn,-7.7,Low
+Dropbox,Gaming,Singapore,2024,8,Series D+,131046,17774,0.1356,783.6,Merger/Acquisition,,Medium
+Shopify,AI/ML,Germany,2023,5,Public,29400,8040,0.2735,6251.2,Product Pivot,-6.36,High
+PayPal,EdTech,UK,2022,10,Series D+,14626,1341,0.0917,728.6,Market Downturn,,Medium
+Shopify,Social Media,Germany,2023,4,Series C,111698,11388,0.102,263.1,Product Pivot,,Medium
+Shopify,Hardware,USA,2023,12,Series C,79803,11462,0.1436,464.3,Cost Cutting,,Medium
+Salesforce,Logistics,Australia,2020,6,Public,67561,5087,0.0753,4802.6,Cost Cutting,-12.45,Medium
+IBM,Gaming,UK,2023,12,Public,17478,1661,0.095,6652.8,Merger/Acquisition,1.54,Medium
+Gorillas,EdTech,USA,2022,5,Public,56844,5285,0.093,4549.3,Over-hiring Post-COVID,2.86,Medium
+Better.com,Cloud Computing,USA,2023,7,Series D+,47148,3291,0.0698,1333.3,IPO Preparation,,Medium
+Lyft,Hardware,UK,2024,10,Public,1555,339,0.2183,3643.3,Regulatory Pressure,-4.99,High
+Twitter/X,AI/ML,Singapore,2024,7,Series B,76082,11936,0.1569,90.5,Merger/Acquisition,,High
+Microsoft,Social Media,USA,2023,4,Private Equity,81714,11444,0.1401,2414.7,IPO Preparation,,Medium
+Salesforce,Social Media,France,2023,12,Private Equity,108454,20029,0.1847,1233.0,Market Downturn,,High
+Wayfair,Social Media,Canada,2021,5,Series A,39225,3877,0.0989,65.6,Regulatory Pressure,,Medium
+Twilio,Cloud Computing,USA,2023,3,Series C,136827,7944,0.0581,407.0,Product Pivot,,Medium
+Klarna,Hardware,USA,2022,4,Series C,53880,3868,0.0718,281.4,Merger/Acquisition,,Medium
+SAP,HealthTech,USA,2023,4,Public,53833,6467,0.1201,1373.4,IPO Preparation,-3.13,Medium
+Dell,Logistics,Canada,2022,3,Series C,42959,1514,0.0353,297.7,Restructuring,,Low
+Twilio,SaaS,USA,2021,10,Series D+,117018,9358,0.08,832.5,Restructuring,,Medium
+Uber,Cloud Computing,USA,2023,5,Series D+,36663,2885,0.0787,1173.5,Over-hiring Post-COVID,,Medium
+Oracle,Cybersecurity,UK,2020,5,Series B,85230,24713,0.29,196.2,IPO Preparation,,High
+Uber,Logistics,Canada,2023,11,Public,19976,199,0.01,3630.0,Merger/Acquisition,-9.39,Low
+Coinbase,E-Commerce,USA,2022,7,Public,69080,7296,0.1056,6602.4,Market Downturn,4.31,Medium
+eBay,AI/ML,USA,2020,4,Series A,106076,27373,0.2581,52.2,Restructuring,,High
+Gorillas,Cloud Computing,UK,2023,4,Public,87093,11300,0.1297,7146.8,Over-hiring Post-COVID,5.15,Medium
+eBay,EdTech,UK,2020,9,Series D+,109571,19752,0.1803,959.6,Merger/Acquisition,,High
+Dropbox,Logistics,Australia,2022,6,Series A,115332,14760,0.128,8.9,Over-hiring Post-COVID,,Medium
+Stripe,Cybersecurity,USA,2023,4,Series C,139079,9264,0.0666,281.3,Market Downturn,,Medium
+Intel,E-Commerce,Australia,2020,2,Series D+,143690,1436,0.01,430.2,Restructuring,,Low
+Meta,HealthTech,India,2024,6,Public,69182,9438,0.1364,4594.8,Regulatory Pressure,-2.4,Medium
+Meta,Hardware,Germany,2020,2,Public,92213,5343,0.058,6960.0,Restructuring,-3.71,Medium
+Opendoor,EdTech,India,2022,5,Series A,104560,5852,0.056,44.9,Restructuring,,Medium
+Wayfair,Logistics,USA,2023,6,Series C,135986,10889,0.0801,437.8,IPO Preparation,,Medium
+PayPal,AI/ML,USA,2022,4,Series D+,83530,21683,0.2596,909.4,Cost Cutting,,High
+Meta,Hardware,India,2021,3,Public,120860,37755,0.3124,2403.3,IPO Preparation,-1.85,High
+SAP,EdTech,UK,2022,7,Public,86473,11879,0.1374,41.7,Restructuring,-3.81,Medium
+Twitter/X,E-Commerce,India,2022,2,Private Equity,135509,11222,0.0828,1589.3,Product Pivot,,Medium
+Shopify,EdTech,USA,2024,11,Series D+,37231,961,0.0258,731.5,Cost Cutting,,Low
+Unity,Hardware,Netherlands,2022,6,Series C,149072,23476,0.1575,182.8,Regulatory Pressure,,High
+Google,FinTech,Germany,2023,4,Public,114860,30165,0.2626,1598.7,Merger/Acquisition,-10.04,High
+Intel,SaaS,USA,2024,6,Series C,2250,225,0.1002,211.8,IPO Preparation,,Medium
+eBay,Gaming,USA,2022,4,Private Equity,65518,655,0.01,1383.3,Cost Cutting,,Low
+SAP,HealthTech,Canada,2024,4,Series C,135599,23540,0.1736,379.9,Cost Cutting,,High
+Gorillas,E-Commerce,Australia,2022,4,Public,137317,27303,0.1988,5377.3,IPO Preparation,-1.65,High
+Shopify,Hardware,UK,2024,9,Series C,87484,874,0.01,493.0,IPO Preparation,,Low
+Unity,SaaS,Netherlands,2021,7,Series B,108483,14549,0.1341,70.3,Cost Cutting,,Medium
+HP,SaaS,USA,2023,3,Series D+,28951,4519,0.1561,1081.9,Over-hiring Post-COVID,,High
+Coinbase,EdTech,USA,2023,3,Series A,94243,10757,0.1142,40.8,Regulatory Pressure,,Medium
+Twitter/X,Gaming,Netherlands,2022,6,Series C,71974,4083,0.0567,383.4,Product Pivot,,Medium
+Twilio,SaaS,Netherlands,2023,6,Series A,12650,2546,0.2013,33.0,Market Downturn,,High
+Twitter/X,Gaming,India,2023,4,Series C,13906,1219,0.0877,428.6,Restructuring,,Medium
+Intel,EdTech,France,2020,9,Public,116547,1165,0.01,5590.4,Regulatory Pressure,-4.46,Low
+SAP,Hardware,USA,2022,4,Public,124471,1244,0.01,3641.1,IPO Preparation,-10.2,Low
+eBay,AI/ML,France,2023,9,Public,103657,22894,0.2209,4976.0,Cost Cutting,-7.76,High
+eBay,FinTech,USA,2023,4,Series A,18825,3187,0.1693,36.2,Market Downturn,,High
+Zoom,SaaS,USA,2024,2,Series B,94915,12057,0.127,143.5,IPO Preparation,,Medium
+Bolt,Cloud Computing,USA,2023,2,Series C,141008,11954,0.0848,158.4,Over-hiring Post-COVID,,Medium
+Better.com,FinTech,USA,2024,5,Public,18169,1411,0.0777,4941.3,Market Downturn,-4.08,Medium
+Twilio,EdTech,USA,2023,4,Public,127885,4340,0.0339,5790.6,Cost Cutting,-1.05,Low
+Gorillas,HealthTech,USA,2022,7,Series B,72510,6198,0.0855,121.6,Regulatory Pressure,,Medium
+Dropbox,Cloud Computing,USA,2021,11,Series D+,133415,1334,0.01,1231.0,Merger/Acquisition,,Low
+Snap,E-Commerce,USA,2023,5,Public,51312,3135,0.0611,6548.0,Regulatory Pressure,1.96,Medium
+Twitter/X,FinTech,Germany,2023,6,Series C,16559,1575,0.0951,299.1,Regulatory Pressure,,Medium
+Bolt,EdTech,USA,2020,10,Public,86769,14645,0.1688,5433.4,Product Pivot,-1.43,High
+Opendoor,FinTech,USA,2022,4,Public,25895,3024,0.1168,5591.3,Market Downturn,-3.23,Medium
+Peloton,SaaS,Canada,2024,12,Series D+,20702,3800,0.1836,929.1,IPO Preparation,,High
+Snap,Hardware,Netherlands,2023,2,Public,144845,33014,0.2279,1348.7,Cost Cutting,-1.93,High
+Uber,Cloud Computing,Canada,2022,10,Private Equity,103735,21229,0.2047,1319.1,IPO Preparation,,High
+Wayfair,Cybersecurity,USA,2023,9,Public,46010,7253,0.1576,2031.1,Cost Cutting,1.0,High
+Meta,Logistics,Canada,2022,10,Public,88445,10697,0.1209,7556.6,Restructuring,-8.59,Medium
+Twitter/X,FinTech,USA,2022,7,Public,71149,2955,0.0415,4878.3,Merger/Acquisition,-8.93,Low
+Microsoft,E-Commerce,USA,2022,4,Series B,107223,19213,0.1792,110.7,Restructuring,,High
+SAP,E-Commerce,USA,2020,3,Series D+,3381,860,0.2544,1087.0,Regulatory Pressure,,High
+LinkedIn,Social Media,Australia,2023,10,Series C,46413,6839,0.1474,350.7,Merger/Acquisition,,Medium
+SAP,FinTech,USA,2022,3,Public,112360,30717,0.2734,2742.7,Product Pivot,-1.53,High
+Amazon,Logistics,USA,2024,9,Public,85285,852,0.01,4858.2,Restructuring,-1.69,Low
+Coinbase,AI/ML,USA,2024,5,Series D+,62957,1741,0.0277,692.7,Product Pivot,,Low
+Wayfair,SaaS,France,2022,3,Series B,140228,26421,0.1884,36.3,IPO Preparation,,High
+Robinhood,Gaming,India,2023,5,Series A,6241,880,0.1411,29.0,Regulatory Pressure,,Medium
+Netflix,Hardware,USA,2023,2,Public,148233,33367,0.2251,4632.9,Over-hiring Post-COVID,-8.3,High
+LinkedIn,Logistics,Germany,2024,11,Series D+,97591,11590,0.1188,763.2,Over-hiring Post-COVID,,Medium
+Intel,Gaming,UK,2022,4,Series A,29190,1475,0.0506,16.3,Merger/Acquisition,,Medium
+Klarna,Gaming,India,2023,10,Series D+,33333,3430,0.1029,1168.5,Merger/Acquisition,,Medium
+Better.com,Cybersecurity,USA,2023,2,Series B,103066,1030,0.01,115.1,Restructuring,,Low
+Better.com,Social Media,France,2022,2,Public,71740,2131,0.0297,5075.1,Over-hiring Post-COVID,3.85,Low
+Gorillas,Logistics,USA,2021,12,Private Equity,107398,21242,0.1978,1740.4,Market Downturn,,High
+Intel,Logistics,India,2023,8,Series B,78211,14846,0.1898,82.2,Market Downturn,,High
+Google,Cybersecurity,USA,2023,1,Private Equity,39523,5890,0.149,1773.8,IPO Preparation,,Medium
+Meta,FinTech,USA,2022,7,Series C,40709,407,0.01,256.0,Market Downturn,,Low
+Better.com,FinTech,USA,2023,5,Series D+,94090,8593,0.0913,513.1,IPO Preparation,,Medium
+Snap,FinTech,UK,2022,11,Private Equity,87112,1916,0.022,1844.1,Over-hiring Post-COVID,,Low
+Unity,HealthTech,USA,2023,8,Public,81022,17348,0.2141,7983.3,Market Downturn,-9.89,High
+Dell,Gaming,Australia,2022,1,Public,112154,8221,0.0733,6449.7,Product Pivot,1.05,Medium
+Intel,HealthTech,USA,2024,11,Series C,146012,4838,0.0331,410.8,Cost Cutting,,Low
+Peloton,Social Media,India,2022,7,Series B,119607,14637,0.1224,95.0,Merger/Acquisition,,Medium
+Amazon,Hardware,Australia,2022,5,Series A,139532,9598,0.0688,14.4,Regulatory Pressure,,Medium
+Klarna,Cybersecurity,Germany,2020,4,Public,22962,5481,0.2387,7980.3,Restructuring,-15.89,High
+Dropbox,Logistics,Canada,2021,7,Series B,18321,1121,0.0612,218.6,IPO Preparation,,Medium
+Oracle,SaaS,India,2023,10,Series B,93389,933,0.01,194.1,Product Pivot,,Low
+eBay,Gaming,USA,2022,2,Public,89452,894,0.01,4328.4,Market Downturn,-5.51,Low
+Lyft,HealthTech,Australia,2024,12,Series D+,118566,13935,0.1175,430.5,Regulatory Pressure,,Medium
+Unity,HealthTech,USA,2020,1,Public,79864,5993,0.075,2868.6,Regulatory Pressure,-0.22,Medium
+eBay,EdTech,Germany,2022,1,Public,70577,705,0.01,1632.5,Cost Cutting,5.53,Low
+Snap,HealthTech,Canada,2022,11,Private Equity,41144,8851,0.2151,1435.6,Restructuring,,High
+eBay,Hardware,USA,2020,12,Series C,63143,10947,0.1734,492.7,Product Pivot,,High
+Opendoor,AI/ML,USA,2021,1,Series C,13811,1626,0.1177,283.0,Restructuring,,Medium
+Spotify,Logistics,UK,2022,12,Private Equity,129966,29781,0.2291,1681.4,IPO Preparation,,High
+Microsoft,AI/ML,Australia,2023,5,Series D+,31031,5368,0.173,1240.2,IPO Preparation,,High
+Cisco,Logistics,Singapore,2022,10,Series B,15088,817,0.0542,100.6,Merger/Acquisition,,Medium
+Unity,Cybersecurity,UK,2023,7,Series D+,49916,1840,0.0369,1451.4,Over-hiring Post-COVID,,Low
+Bolt,Logistics,India,2023,2,Series A,143952,26694,0.1854,71.9,IPO Preparation,,High
+PayPal,AI/ML,Netherlands,2020,10,Public,149390,22663,0.1517,4737.8,Market Downturn,-4.04,High
+Zoom,Logistics,USA,2023,8,Private Equity,22211,2966,0.1336,1153.5,Regulatory Pressure,,Medium
+Bolt,Cybersecurity,USA,2024,4,Public,136669,7145,0.0523,6394.5,Product Pivot,0.97,Medium
+Snap,Cybersecurity,India,2023,12,Public,116848,19704,0.1686,4305.0,Product Pivot,-1.83,High
+Gorillas,Social Media,Australia,2023,3,Series B,22576,1344,0.0596,64.5,Cost Cutting,,Medium
+Stripe,Logistics,France,2022,10,Series D+,84774,9481,0.1118,1210.0,Regulatory Pressure,,Medium
+LinkedIn,SaaS,USA,2023,11,Series C,58109,13699,0.2358,446.0,Cost Cutting,,High
+Klarna,EdTech,USA,2023,8,Series D+,58980,3959,0.0671,849.8,Cost Cutting,,Medium
+Klarna,FinTech,USA,2023,2,Series B,7544,75,0.01,59.4,Regulatory Pressure,,Low
+Bolt,E-Commerce,USA,2024,11,Public,55986,2004,0.0358,2540.9,Restructuring,1.17,Low
+Airbnb,Cybersecurity,USA,2021,11,Public,55662,11107,0.1995,5214.5,Market Downturn,-5.31,High
+Wayfair,Cloud Computing,Canada,2020,3,Public,30382,4264,0.1404,4000.3,Restructuring,-2.61,Medium
+LinkedIn,FinTech,USA,2023,12,Series D+,54578,5986,0.1097,690.9,Market Downturn,,Medium
+Dropbox,Hardware,Australia,2024,3,Public,59234,4695,0.0793,7043.9,Product Pivot,-5.75,Medium
+Wayfair,Gaming,USA,2021,10,Series D+,109230,17348,0.1588,1034.6,IPO Preparation,,High
+Gorillas,Logistics,Germany,2022,11,Series D+,88485,4607,0.0521,1241.0,IPO Preparation,,Medium
+Intel,AI/ML,USA,2020,1,Public,44528,6432,0.1445,3018.8,Restructuring,-5.83,Medium
+Dell,E-Commerce,USA,2022,6,Series C,99438,6115,0.0615,258.8,Restructuring,,Medium
+Dropbox,Cloud Computing,USA,2023,2,Series A,118819,5725,0.0482,52.1,Restructuring,,Low
+PayPal,FinTech,Brazil,2023,1,Public,33043,2280,0.069,5896.2,Over-hiring Post-COVID,-0.76,Medium
+Klarna,Logistics,Australia,2022,2,Series C,124779,11226,0.09,483.9,Merger/Acquisition,,Medium
+Twilio,Social Media,UK,2022,12,Series C,29862,3466,0.1161,350.5,Regulatory Pressure,,Medium
+Oracle,Gaming,USA,2020,6,Series D+,141629,19663,0.1388,1391.4,Market Downturn,,Medium
+Netflix,E-Commerce,Singapore,2022,4,Series C,43415,434,0.01,364.8,IPO Preparation,,Low
+PayPal,EdTech,USA,2023,6,Series D+,51870,2872,0.0554,1139.9,Market Downturn,,Medium
+Shopify,Social Media,USA,2024,12,Series D+,111875,9920,0.0887,696.5,Restructuring,,Medium
+Dell,Cloud Computing,Germany,2024,9,Public,142894,34352,0.2404,5028.6,Over-hiring Post-COVID,-5.23,High
+Uber,Hardware,Singapore,2020,10,Series C,70312,2362,0.0336,409.3,Restructuring,,Low
+Bolt,E-Commerce,USA,2024,12,Series C,34517,4591,0.133,493.6,Market Downturn,,Medium
+Intel,Social Media,USA,2023,10,Public,57292,13727,0.2396,6458.5,Merger/Acquisition,5.39,High
+Uber,Gaming,Singapore,2023,8,Series D+,129698,1940,0.015,773.4,IPO Preparation,,Low
+Intel,EdTech,USA,2023,1,Private Equity,18129,2746,0.1515,2326.4,Merger/Acquisition,,High
+Stripe,Social Media,USA,2022,8,Series D+,129114,7206,0.0558,98.6,Regulatory Pressure,,Medium
+Spotify,HealthTech,Germany,2022,9,Series D+,139817,11133,0.0796,344.9,Product Pivot,,Medium
+Coinbase,EdTech,France,2020,6,Series A,97450,5432,0.0558,50.9,Over-hiring Post-COVID,,Medium
+HP,Cloud Computing,UK,2022,10,Series C,65329,4014,0.0615,301.7,Merger/Acquisition,,Medium
+Peloton,Hardware,Brazil,2022,5,Series C,11088,3745,0.3378,372.7,Over-hiring Post-COVID,,High
+Uber,Gaming,India,2023,6,Series B,132014,24760,0.1876,123.1,Restructuring,,High
+SAP,SaaS,USA,2023,6,Series A,105780,22016,0.2081,49.1,Product Pivot,,High
+Twitter/X,Logistics,Brazil,2023,9,Series D+,41221,6568,0.1594,539.4,Market Downturn,,High
+Klarna,AI/ML,USA,2020,4,Series D+,11099,110,0.01,982.6,Merger/Acquisition,,Low
+Intel,AI/ML,USA,2024,2,Series D+,73094,11080,0.1516,1118.2,Merger/Acquisition,,High
+PayPal,AI/ML,Germany,2024,11,Private Equity,134511,27686,0.2058,2232.3,Cost Cutting,,High
+Zoom,E-Commerce,USA,2023,11,Series C,22649,1171,0.0517,541.6,IPO Preparation,,Medium
+Bolt,Cloud Computing,USA,2024,9,Public,128116,25267,0.1972,5488.2,Market Downturn,-0.12,High
+Dropbox,Gaming,USA,2023,2,Series A,141780,25002,0.1763,44.4,Merger/Acquisition,,High
+SAP,EdTech,USA,2024,10,Series D+,109534,29372,0.2682,312.6,Merger/Acquisition,,High
+HP,E-Commerce,France,2020,9,Public,21451,1857,0.0866,3937.2,Market Downturn,2.06,Medium
+Peloton,Cloud Computing,Germany,2022,2,Series D+,47266,1521,0.0322,738.2,Product Pivot,,Low
+Twitter/X,Logistics,Brazil,2022,12,Series D+,57514,5237,0.0911,1136.1,Over-hiring Post-COVID,,Medium
+Klarna,HealthTech,USA,2022,8,Series A,87622,20577,0.2348,30.2,Market Downturn,,High
+Dropbox,Gaming,USA,2021,9,Public,9808,98,0.01,6592.7,Over-hiring Post-COVID,-5.42,Low
+Unity,AI/ML,USA,2023,12,Series B,59752,597,0.01,119.9,Product Pivot,,Low
+Cisco,Social Media,USA,2023,10,Series C,83711,10643,0.1272,278.7,Product Pivot,,Medium
+Airbnb,SaaS,USA,2023,9,Public,127034,10746,0.0846,5497.8,Regulatory Pressure,-3.88,Medium
+Intel,Gaming,Australia,2021,10,Private Equity,9220,1112,0.1206,1265.3,Restructuring,,Medium
+Stripe,Cybersecurity,Netherlands,2024,9,Series D+,126704,24786,0.1956,662.7,Cost Cutting,,High
+Snap,Hardware,Brazil,2023,2,Public,80493,6100,0.0758,1590.4,Product Pivot,-17.34,Medium
+Oracle,Cloud Computing,USA,2022,4,Series D+,47613,476,0.01,720.7,Regulatory Pressure,,Low
+Getir,FinTech,Netherlands,2023,7,Series A,49426,14015,0.2836,32.3,Regulatory Pressure,,High
+Spotify,Logistics,USA,2022,12,Public,136964,5508,0.0402,3968.0,Regulatory Pressure,-4.81,Low
+Dell,HealthTech,USA,2022,2,Public,26405,931,0.0353,5833.7,Product Pivot,-3.45,Low
+Stripe,Logistics,France,2024,1,Public,50885,10599,0.2083,6317.3,Over-hiring Post-COVID,-1.99,High
+Robinhood,Gaming,India,2022,3,Public,31153,2780,0.0892,5464.4,Product Pivot,-6.45,Medium
+Amazon,FinTech,USA,2023,12,Series B,92365,10615,0.1149,167.8,Market Downturn,,Medium
+Twitter/X,Cybersecurity,USA,2024,4,Series D+,126313,20036,0.1586,984.2,Restructuring,,High
+Unity,EdTech,USA,2023,8,Public,146371,30252,0.2067,4409.9,Restructuring,-3.97,High
+Gorillas,Social Media,Canada,2020,6,Public,15552,1451,0.0933,4074.3,Market Downturn,-2.59,Medium
+Getir,FinTech,UK,2021,11,Public,137616,33247,0.2416,5625.6,Merger/Acquisition,-10.07,High
+Uber,Cloud Computing,Brazil,2020,2,Private Equity,21881,218,0.01,1844.3,Product Pivot,,Low
+Lyft,AI/ML,USA,2023,9,Public,148846,26908,0.1808,7795.7,IPO Preparation,-2.68,High
+Meta,Cybersecurity,USA,2022,2,Private Equity,83608,4417,0.0528,2214.7,Cost Cutting,,Medium
+Shopify,Social Media,UK,2021,12,Series D+,50392,11579,0.2298,626.7,Regulatory Pressure,,High
+Oracle,SaaS,UK,2024,5,Public,92001,12085,0.1314,4796.0,Product Pivot,2.19,Medium
+Spotify,HealthTech,USA,2023,12,Series A,83891,5550,0.0662,50.7,Restructuring,,Medium
+PayPal,AI/ML,Canada,2022,4,Series D+,18420,3187,0.173,1141.8,Cost Cutting,,High
+Microsoft,Gaming,France,2023,7,Series C,17202,3293,0.1915,412.7,IPO Preparation,,High
+Bolt,FinTech,Singapore,2023,8,Private Equity,2394,410,0.1714,1461.7,Merger/Acquisition,,High
+Salesforce,Social Media,Australia,2020,5,Public,31485,1184,0.0376,2492.0,Over-hiring Post-COVID,-2.43,Low
+Peloton,Hardware,France,2022,10,Public,126202,10257,0.0813,3002.1,Over-hiring Post-COVID,-3.98,Medium
+Uber,E-Commerce,Germany,2024,5,Series C,74027,8859,0.1197,332.7,IPO Preparation,,Medium
+Robinhood,Hardware,Australia,2023,2,Public,147011,17156,0.1167,5684.5,Product Pivot,-4.79,Medium
+Snap,EdTech,USA,2023,8,Public,129176,23249,0.18,2802.6,Product Pivot,2.92,High
+eBay,Hardware,USA,2022,2,Public,42735,427,0.01,5089.1,Cost Cutting,-4.02,Low
+Uber,SaaS,USA,2020,10,Public,25476,3738,0.1467,6262.4,Cost Cutting,-7.8,Medium
+Google,EdTech,UK,2022,12,Series B,83143,8048,0.0968,64.7,Merger/Acquisition,,Medium
+Dell,Cybersecurity,USA,2022,6,Public,108131,5722,0.0529,7210.0,Product Pivot,-5.02,Medium
+Coinbase,HealthTech,Brazil,2022,8,Series D+,57197,3466,0.0606,679.2,Restructuring,,Medium
+Netflix,Cybersecurity,USA,2020,6,Series C,70882,7289,0.1028,450.9,Over-hiring Post-COVID,,Medium
+Coinbase,E-Commerce,USA,2024,4,Series D+,17151,171,0.01,629.3,Merger/Acquisition,,Low
+Lyft,Cloud Computing,UK,2024,4,Public,15133,966,0.0639,2946.7,Regulatory Pressure,-5.8,Medium
+Meta,HealthTech,USA,2023,6,Series B,79664,3978,0.0499,98.0,Cost Cutting,,Low
+Google,Hardware,USA,2024,4,Public,1069,173,0.1626,4809.7,Regulatory Pressure,-6.27,High
+Dell,Logistics,USA,2022,8,Series B,68009,3778,0.0556,101.4,Restructuring,,Medium
+Coinbase,Cloud Computing,UK,2024,9,Series A,123925,12738,0.1028,36.5,Product Pivot,,Medium
+PayPal,HealthTech,USA,2022,1,Series D+,101626,24733,0.2434,906.9,Market Downturn,,High
+Better.com,HealthTech,Australia,2024,4,Series D+,128022,25546,0.1995,745.2,Cost Cutting,,High
+Getir,E-Commerce,Canada,2024,4,Series D+,33538,6445,0.1922,778.8,Merger/Acquisition,,High
+Salesforce,Gaming,USA,2023,2,Series D+,38638,3091,0.08,253.0,Market Downturn,,Medium
+Wayfair,Hardware,USA,2024,6,Series A,111240,18181,0.1634,46.3,Restructuring,,High
+Zoom,E-Commerce,USA,2023,3,Series A,111674,11311,0.1013,38.6,Regulatory Pressure,,Medium
+SAP,HealthTech,Canada,2022,7,Public,49772,5191,0.1043,8220.6,IPO Preparation,2.68,Medium
+Zoom,Social Media,USA,2022,11,Series C,138480,21156,0.1528,187.3,Over-hiring Post-COVID,,High
+Cisco,Cloud Computing,USA,2023,11,Series A,142416,10288,0.0722,11.1,IPO Preparation,,Medium
+Gorillas,E-Commerce,Australia,2020,5,Private Equity,51955,12440,0.2394,1870.8,IPO Preparation,,High
+Bolt,Gaming,UK,2023,4,Series D+,68947,7390,0.1072,910.9,IPO Preparation,,Medium
+Klarna,FinTech,USA,2024,5,Series D+,77608,13152,0.1695,477.3,Restructuring,,High
+Uber,Cybersecurity,USA,2022,8,Public,38833,9181,0.2364,1940.5,Over-hiring Post-COVID,0.38,High
+Netflix,HealthTech,Singapore,2023,3,Private Equity,121719,24652,0.2025,2422.4,Restructuring,,High
+Airbnb,Hardware,France,2024,7,Public,83529,835,0.01,7828.2,IPO Preparation,-3.44,Low
+HP,Logistics,India,2024,6,Series C,40197,6254,0.1556,1.5,Cost Cutting,,High
+IBM,FinTech,UK,2024,12,Public,18134,3410,0.1881,4083.6,IPO Preparation,-8.4,High
+Peloton,EdTech,UK,2023,1,Public,126020,24113,0.1913,8328.4,Cost Cutting,7.18,High
+Meta,AI/ML,Brazil,2024,7,Series D+,25061,775,0.0309,647.7,Merger/Acquisition,,Low
+Google,Gaming,Brazil,2023,7,Private Equity,149605,10088,0.0674,1205.6,IPO Preparation,,Medium
+SAP,Logistics,USA,2022,12,Public,55563,11088,0.1996,4434.5,Market Downturn,-5.23,High
+Dropbox,AI/ML,Australia,2023,1,Series C,26421,1560,0.0591,165.5,Restructuring,,Medium
+Cisco,Gaming,USA,2023,9,Public,19840,1905,0.096,1590.4,IPO Preparation,-7.15,Medium
+Intel,Hardware,USA,2022,6,Public,63281,15571,0.2461,7105.1,Restructuring,-6.12,High
+Snap,Social Media,India,2023,12,Series D+,15401,1789,0.1162,210.3,Regulatory Pressure,,Medium
+Wayfair,Hardware,USA,2023,2,Series D+,11138,688,0.0619,879.1,IPO Preparation,,Medium
+SAP,Cybersecurity,Singapore,2022,5,Public,44824,2231,0.0498,6773.2,Market Downturn,6.24,Low
+Lyft,FinTech,USA,2023,11,Public,88856,13027,0.1466,2097.5,IPO Preparation,0.18,Medium
+Getir,Cloud Computing,UK,2023,4,Public,33142,442,0.0133,3151.5,Product Pivot,1.13,Low
+Intel,Gaming,Netherlands,2023,7,Public,25878,2593,0.1002,7426.4,Merger/Acquisition,2.39,Medium
+LinkedIn,Hardware,Netherlands,2020,8,Private Equity,51367,7533,0.1467,1819.7,Regulatory Pressure,,Medium
+Coinbase,Cloud Computing,USA,2020,11,Private Equity,74186,16612,0.2239,1129.6,Restructuring,,High
+Lyft,Cybersecurity,USA,2022,11,Public,43375,7521,0.1734,7404.5,Regulatory Pressure,-9.65,High
+Coinbase,HealthTech,Germany,2024,1,Series C,118671,7461,0.0629,444.8,Merger/Acquisition,,Medium
+Bolt,EdTech,USA,2022,5,Series A,100561,21547,0.2143,44.3,Restructuring,,High
+eBay,FinTech,Brazil,2023,3,Public,64877,6230,0.096,3199.7,Restructuring,-5.0,Medium
+Lyft,Cybersecurity,Netherlands,2022,1,Series B,55191,1166,0.0211,100.2,Product Pivot,,Low
+Coinbase,Cybersecurity,USA,2022,12,Private Equity,49563,5265,0.1062,1671.8,IPO Preparation,,Medium
+Coinbase,Hardware,USA,2024,3,Public,92282,21691,0.2351,4622.8,Cost Cutting,-3.32,High
+Gorillas,Social Media,USA,2023,6,Public,78843,10503,0.1332,6877.9,Merger/Acquisition,-7.11,Medium
+Bolt,AI/ML,Netherlands,2021,7,Private Equity,83571,10112,0.121,582.1,Market Downturn,,Medium
+Robinhood,EdTech,USA,2022,8,Series D+,137064,34399,0.251,321.8,Merger/Acquisition,,High
+Oracle,FinTech,USA,2020,11,Public,121899,1218,0.01,5361.7,IPO Preparation,-6.25,Low
+Stripe,HealthTech,USA,2023,4,Public,31857,546,0.0172,4016.9,Product Pivot,-4.74,Low
+Better.com,HealthTech,Germany,2023,3,Series D+,32814,328,0.01,599.3,Over-hiring Post-COVID,,Low
+Netflix,E-Commerce,USA,2021,5,Series C,70783,10604,0.1498,87.8,Regulatory Pressure,,Medium
+Dell,Cybersecurity,USA,2022,9,Series B,60067,8008,0.1333,120.9,Over-hiring Post-COVID,,Medium
+Coinbase,Gaming,Singapore,2022,6,Private Equity,47506,11563,0.2434,1468.3,Product Pivot,,High
+Unity,Social Media,Netherlands,2024,9,Public,142258,19841,0.1395,6307.0,Regulatory Pressure,-8.87,Medium
+Dell,EdTech,Australia,2024,6,Series D+,62106,5444,0.0877,822.0,IPO Preparation,,Medium
+Klarna,Hardware,USA,2020,2,Series D+,19391,2329,0.1201,757.6,Product Pivot,,Medium
+Salesforce,HealthTech,USA,2023,5,Series D+,102232,13230,0.1294,1176.6,Cost Cutting,,Medium
+Airbnb,FinTech,Germany,2022,12,Public,30377,303,0.01,2375.1,Merger/Acquisition,-7.83,Low
+Twitter/X,E-Commerce,USA,2022,11,Private Equity,14526,4892,0.3368,1821.8,IPO Preparation,,High
+PayPal,FinTech,Netherlands,2023,9,Series A,20922,3380,0.1616,13.3,Regulatory Pressure,,High
+Amazon,Social Media,India,2024,8,Series D+,140816,19263,0.1368,531.7,Merger/Acquisition,,Medium
+Snap,Gaming,USA,2024,7,Series C,33981,5750,0.1692,154.5,Over-hiring Post-COVID,,High
+Twilio,E-Commerce,Netherlands,2023,1,Public,89680,15851,0.1768,6563.9,IPO Preparation,-1.6,High
+Twitter/X,E-Commerce,Singapore,2022,4,Series D+,109884,11950,0.1088,779.1,Market Downturn,,Medium
+Better.com,AI/ML,USA,2023,12,Series C,58531,4067,0.0695,298.4,Merger/Acquisition,,Medium
+Meta,EdTech,UK,2022,7,Series D+,140093,23529,0.168,445.8,Restructuring,,High
+Airbnb,E-Commerce,USA,2023,11,Private Equity,133318,20111,0.1509,1320.2,Regulatory Pressure,,High
+Wayfair,SaaS,USA,2022,7,Series C,83627,4616,0.0552,208.4,Restructuring,,Medium
+Cisco,AI/ML,USA,2023,6,Series D+,92754,21660,0.2335,922.7,Cost Cutting,,High
+Zoom,AI/ML,Germany,2022,8,Series B,68732,9860,0.1435,72.4,Regulatory Pressure,,Medium
+eBay,Social Media,Singapore,2022,11,Public,143584,25613,0.1784,7659.6,IPO Preparation,-7.48,High
+PayPal,SaaS,UK,2024,6,Series D+,80724,18675,0.2314,263.8,Regulatory Pressure,,High
+Shopify,Cloud Computing,USA,2021,10,Public,30460,3708,0.1218,3387.0,Cost Cutting,-1.75,Medium
+Robinhood,FinTech,Germany,2023,3,Series D+,88195,12819,0.1454,1336.7,Regulatory Pressure,,Medium
+Dell,Gaming,USA,2022,4,Series B,130566,24128,0.1848,99.1,IPO Preparation,,High
+Better.com,Logistics,France,2020,3,Series D+,139482,8649,0.062,379.2,Over-hiring Post-COVID,,Medium
+Opendoor,FinTech,USA,2020,1,Series B,3193,396,0.1243,130.5,Market Downturn,,Medium
+Klarna,E-Commerce,USA,2022,10,Series C,115813,15060,0.13,243.0,Market Downturn,,Medium
+Meta,Gaming,USA,2024,5,Public,147430,6415,0.0435,3328.3,Product Pivot,-2.35,Low
+Zoom,HealthTech,Canada,2022,1,Series B,29310,8951,0.3054,67.4,Cost Cutting,,High
+Salesforce,Cloud Computing,USA,2024,1,Public,20592,205,0.01,10536.7,IPO Preparation,13.39,Low
+Coinbase,HealthTech,Canada,2023,2,Public,58605,946,0.0162,4496.9,Merger/Acquisition,-0.92,Low
+Oracle,SaaS,USA,2022,4,Series D+,29055,6541,0.2251,183.8,Restructuring,,High
+Twitter/X,HealthTech,USA,2023,6,Public,72434,12825,0.1771,7987.4,Merger/Acquisition,-6.08,High
+Peloton,Hardware,UK,2023,8,Public,73288,2779,0.0379,6222.1,Restructuring,-5.9,Low
+Twitter/X,EdTech,Singapore,2023,3,Series C,77757,13108,0.1686,208.0,Over-hiring Post-COVID,,High
+Getir,FinTech,Singapore,2022,1,Series D+,18439,4377,0.2374,501.4,Restructuring,,High
+Google,Logistics,USA,2022,3,Series D+,143397,16860,0.1176,1015.5,Merger/Acquisition,,Medium
+Dropbox,Hardware,USA,2024,12,Private Equity,128568,42158,0.3279,1351.8,Regulatory Pressure,,High
+Gorillas,Social Media,USA,2024,3,Series C,536,5,0.01,68.9,Merger/Acquisition,,Low
+Gorillas,Logistics,UK,2024,5,Series A,94448,16576,0.1755,68.6,Market Downturn,,High
+Snap,HealthTech,UK,2022,11,Public,84207,17963,0.2133,4132.0,IPO Preparation,-2.24,High
+Snap,E-Commerce,Netherlands,2023,12,Series C,39551,7566,0.1913,479.5,Market Downturn,,High
+Uber,Cloud Computing,Singapore,2023,12,Series A,81238,8420,0.1037,60.5,Cost Cutting,,Medium
+Oracle,Cybersecurity,USA,2023,4,Series C,74096,7169,0.0968,179.9,Regulatory Pressure,,Medium
+Zoom,Logistics,UK,2022,4,Series C,60571,9420,0.1555,424.0,Merger/Acquisition,,High
+HP,HealthTech,Netherlands,2023,9,Series D+,131113,24290,0.1853,591.5,Regulatory Pressure,,High
+Stripe,Cloud Computing,Australia,2022,7,Public,74101,12463,0.1682,1266.6,Regulatory Pressure,3.61,High
+Meta,Gaming,USA,2022,4,Series D+,30373,6171,0.2032,664.1,IPO Preparation,,High
+Dell,FinTech,USA,2024,3,Series D+,71968,2770,0.0385,927.2,Over-hiring Post-COVID,,Low
+Microsoft,AI/ML,USA,2022,6,Series A,26970,2744,0.1018,32.6,Restructuring,,Medium
+Meta,EdTech,USA,2020,3,Public,8828,395,0.0448,4385.9,Cost Cutting,-2.04,Low
+Wayfair,Cloud Computing,USA,2020,6,Private Equity,137905,12288,0.0891,2186.1,Product Pivot,,Medium
+Opendoor,E-Commerce,USA,2024,11,Private Equity,121673,24482,0.2012,1563.9,Regulatory Pressure,,High
+Coinbase,SaaS,India,2023,11,Public,47138,6063,0.1286,3313.4,Product Pivot,-7.81,Medium
+Peloton,E-Commerce,USA,2022,12,Public,11768,3866,0.3285,6404.1,IPO Preparation,-3.01,High
+Lyft,Cloud Computing,USA,2024,9,Series A,114420,15500,0.1355,43.2,Restructuring,,Medium
+eBay,E-Commerce,USA,2024,6,Private Equity,110879,13834,0.1248,13.0,Restructuring,,Medium
+Opendoor,FinTech,Australia,2022,12,Series D+,148617,19096,0.1285,937.1,IPO Preparation,,Medium
+Google,E-Commerce,France,2023,4,Public,8387,578,0.069,5783.7,Restructuring,5.09,Medium
+Intel,Logistics,UK,2023,5,Series D+,25418,2932,0.1154,806.4,Market Downturn,,Medium
+Meta,AI/ML,USA,2023,6,Series C,35997,7567,0.2102,407.0,Restructuring,,High
+Twitter/X,E-Commerce,Brazil,2022,11,Public,94062,12145,0.1291,3655.2,Product Pivot,-7.32,Medium
+Twilio,AI/ML,USA,2024,3,Series B,12429,702,0.0565,136.2,Restructuring,,Medium
+Twilio,HealthTech,USA,2023,8,Public,102701,4723,0.046,1866.1,Merger/Acquisition,-2.31,Low
+Oracle,Social Media,USA,2022,4,Public,117066,9831,0.084,5814.2,IPO Preparation,-4.77,Medium
+Dropbox,FinTech,USA,2022,8,Series D+,29046,3657,0.1259,1425.0,Over-hiring Post-COVID,,Medium
+IBM,Social Media,USA,2020,10,Series D+,82994,17884,0.2155,481.6,Product Pivot,,High
+Gorillas,HealthTech,Netherlands,2021,10,Public,47066,600,0.0128,3480.4,Over-hiring Post-COVID,-3.54,Low
+Zoom,FinTech,Germany,2023,3,Series D+,85964,8116,0.0944,572.8,Product Pivot,,Medium
+HP,Cloud Computing,USA,2020,10,Public,128779,16940,0.1315,5260.0,Regulatory Pressure,-0.58,Medium
+Amazon,Cloud Computing,Singapore,2022,7,Public,82491,824,0.01,2873.9,Cost Cutting,-3.22,Low
+Cisco,AI/ML,USA,2023,11,Public,93180,4967,0.0533,5842.5,Merger/Acquisition,-1.11,Medium
+Getir,HealthTech,USA,2020,12,Private Equity,28513,1870,0.0656,2008.1,Product Pivot,,Medium
+Opendoor,AI/ML,Germany,2024,9,Series D+,52632,2964,0.0563,971.0,Regulatory Pressure,,Medium
+Getir,EdTech,Germany,2022,4,Series D+,108355,14665,0.1354,234.1,Merger/Acquisition,,Medium
+Opendoor,E-Commerce,USA,2022,8,Series C,92127,9871,0.1072,419.4,Product Pivot,,Medium
+Airbnb,Cybersecurity,USA,2022,3,Private Equity,123272,9316,0.0756,2062.4,Over-hiring Post-COVID,,Medium
+Twilio,EdTech,India,2022,7,Public,145751,22480,0.1542,6660.3,Over-hiring Post-COVID,0.75,High
+IBM,E-Commerce,India,2020,3,Series C,141794,36561,0.2578,344.7,IPO Preparation,,High
+Robinhood,FinTech,India,2023,12,Series C,64568,16215,0.2511,326.4,Product Pivot,,High
+Opendoor,AI/ML,USA,2024,7,Series C,16616,166,0.01,423.9,Product Pivot,,Low
+Getir,FinTech,USA,2022,11,Public,51869,8618,0.1662,8847.0,Market Downturn,-10.4,High
+Better.com,Hardware,USA,2023,10,Series C,103600,10956,0.1058,185.6,Merger/Acquisition,,Medium
+LinkedIn,Hardware,USA,2023,10,Public,30155,3992,0.1324,7156.3,Merger/Acquisition,-0.87,Medium
+IBM,Hardware,Singapore,2024,11,Series C,48132,4242,0.0881,289.7,Merger/Acquisition,,Medium
+Twilio,FinTech,UK,2022,11,Series B,145765,18863,0.1294,113.8,Merger/Acquisition,,Medium
+Oracle,E-Commerce,USA,2022,6,Public,19395,2562,0.1321,1926.9,Cost Cutting,-6.96,Medium
+Twitter/X,Hardware,Canada,2022,2,Series B,23586,1737,0.0737,106.3,Cost Cutting,,Medium
+Unity,HealthTech,UK,2023,11,Public,86137,4159,0.0483,3005.5,Regulatory Pressure,-7.52,Low
+Microsoft,SaaS,USA,2024,3,Series B,107834,9069,0.0841,97.7,Restructuring,,Medium
+Snap,E-Commerce,Australia,2022,6,Series D+,63583,8821,0.1387,448.6,Product Pivot,,Medium
+Oracle,Hardware,France,2022,4,Public,95528,16041,0.1679,4102.2,Product Pivot,-4.3,High
+Snap,Gaming,India,2024,6,Public,67457,12699,0.1883,4187.8,Product Pivot,-7.08,High
+Oracle,Cloud Computing,USA,2024,1,Private Equity,98051,7889,0.0805,1558.1,Product Pivot,,Medium
+Netflix,Cloud Computing,Germany,2024,10,Public,79006,11274,0.1427,1770.5,Merger/Acquisition,-8.9,Medium
+LinkedIn,EdTech,Canada,2023,12,Public,138855,27354,0.197,2109.0,Merger/Acquisition,-1.6,High
+Twitter/X,Cloud Computing,USA,2022,1,Public,94524,20157,0.2132,5723.8,Cost Cutting,-0.64,High
+Opendoor,E-Commerce,USA,2023,3,Series C,81981,9451,0.1153,204.3,Over-hiring Post-COVID,,Medium
+Salesforce,Logistics,Netherlands,2023,8,Series D+,755,77,0.1023,1143.8,Market Downturn,,Medium
+Amazon,AI/ML,USA,2020,8,Public,15987,2162,0.1353,5450.5,Merger/Acquisition,-5.07,Medium
+Dell,E-Commerce,Canada,2023,11,Public,19846,556,0.028,6213.5,Merger/Acquisition,4.15,Low
+Cisco,SaaS,UK,2023,4,Public,35550,3715,0.1045,7821.4,IPO Preparation,-6.71,Medium
+Dropbox,E-Commerce,USA,2022,6,Public,9244,1659,0.1796,4380.6,Merger/Acquisition,-13.63,High
+SAP,Cybersecurity,USA,2023,8,Series D+,62096,10640,0.1714,616.2,Over-hiring Post-COVID,,High
+Peloton,AI/ML,Australia,2023,7,Series C,120140,11819,0.0984,404.6,Over-hiring Post-COVID,,Medium
+Cisco,Gaming,USA,2024,11,Public,55532,7631,0.1374,6019.0,Cost Cutting,-3.33,Medium
+SAP,Cloud Computing,UK,2020,7,Series D+,43187,2333,0.054,740.1,Merger/Acquisition,,Medium
+Lyft,AI/ML,India,2022,4,Series D+,63363,11169,0.1763,1245.3,Regulatory Pressure,,High
+Microsoft,Cloud Computing,India,2023,9,Private Equity,132163,15036,0.1138,1372.7,IPO Preparation,,Medium
+Microsoft,EdTech,Singapore,2022,12,Private Equity,6777,663,0.0979,1519.7,Market Downturn,,Medium
+PayPal,AI/ML,UK,2023,10,Series B,62360,5678,0.0911,121.0,Product Pivot,,Medium
+Google,Hardware,USA,2023,6,Public,133832,15386,0.115,3130.8,Merger/Acquisition,-2.58,Medium
+Wayfair,Cloud Computing,Singapore,2021,12,Public,25241,2124,0.0842,5155.2,Cost Cutting,-0.45,Medium
+Google,Gaming,India,2023,11,Public,120220,20756,0.1727,7793.5,Cost Cutting,-4.66,High
+Robinhood,Hardware,USA,2023,3,Public,37711,3332,0.0884,5889.9,Regulatory Pressure,-5.21,Medium
+Unity,Social Media,USA,2022,5,Series D+,7369,1823,0.2474,809.9,Market Downturn,,High
+Wayfair,FinTech,France,2024,5,Series B,88116,20902,0.2372,112.2,IPO Preparation,,High
+Uber,FinTech,USA,2024,5,Series A,95015,4624,0.0487,45.3,Restructuring,,Low
+Zoom,Gaming,India,2023,8,Series B,60610,7611,0.1256,156.0,Cost Cutting,,Medium
+Twitter/X,Cybersecurity,UK,2023,9,Series D+,34533,2346,0.0679,995.0,Over-hiring Post-COVID,,Medium
+Airbnb,Social Media,USA,2023,9,Series C,45713,4290,0.0939,260.2,Over-hiring Post-COVID,,Medium
+Coinbase,EdTech,Germany,2024,6,Public,13438,3765,0.2802,5649.6,Product Pivot,-4.84,High
+Shopify,Gaming,USA,2023,6,Public,131342,12529,0.0954,5959.9,Cost Cutting,-1.76,Medium
+Zoom,Hardware,USA,2023,9,Series C,2774,412,0.1488,179.1,IPO Preparation,,Medium
+Salesforce,FinTech,UK,2024,4,Public,84890,13863,0.1633,5336.5,Product Pivot,-3.78,High
+Meta,FinTech,USA,2022,6,Series D+,20544,820,0.0399,108.4,Cost Cutting,,Low
+Twitter/X,FinTech,Canada,2024,4,Public,99872,5152,0.0516,5965.1,Market Downturn,-9.54,Medium
+Intel,Hardware,Australia,2022,11,Series C,15206,357,0.0235,379.2,Merger/Acquisition,,Low
+eBay,HealthTech,Canada,2022,1,Series B,137546,6756,0.0491,155.9,IPO Preparation,,Low
+Opendoor,Gaming,USA,2022,7,Public,76964,769,0.01,4209.9,Cost Cutting,-1.64,Low
+HP,E-Commerce,USA,2024,10,Series B,21713,3551,0.1636,134.8,IPO Preparation,,High
+eBay,EdTech,UK,2024,11,Public,2450,696,0.2843,7847.9,Restructuring,-3.6,High
+Robinhood,FinTech,Singapore,2023,12,Series D+,10911,1438,0.1318,1252.4,IPO Preparation,,Medium
+Stripe,Cloud Computing,France,2023,6,Series C,129103,1291,0.01,296.5,IPO Preparation,,Low
+eBay,Gaming,France,2023,9,Series C,63244,4337,0.0686,316.7,Over-hiring Post-COVID,,Medium
+Shopify,SaaS,USA,2024,7,Private Equity,149343,12438,0.0833,2166.5,Market Downturn,,Medium
+Twilio,Hardware,USA,2023,7,Public,35553,1372,0.0386,1998.4,Merger/Acquisition,-0.53,Low
+Oracle,HealthTech,UK,2022,2,Series C,138617,26172,0.1888,261.2,Merger/Acquisition,,High
+eBay,Gaming,USA,2022,12,Series C,58123,10742,0.1848,460.3,Over-hiring Post-COVID,,High
+Bolt,EdTech,USA,2023,11,Series A,30214,832,0.0276,55.6,IPO Preparation,,Low
+Meta,HealthTech,Singapore,2023,9,Public,109783,19542,0.178,5738.5,Merger/Acquisition,-11.87,High
+Lyft,EdTech,USA,2022,10,Series B,9062,2194,0.2421,47.7,Product Pivot,,High
+Klarna,Gaming,USA,2020,9,Series C,55548,15120,0.2722,294.0,Market Downturn,,High
+IBM,E-Commerce,USA,2024,6,Public,93795,32754,0.3492,3820.2,Restructuring,-12.56,High
+Shopify,SaaS,Singapore,2020,3,Series D+,12526,599,0.0478,905.9,Over-hiring Post-COVID,,Low
+HP,EdTech,Germany,2023,1,Public,106647,36893,0.3459,3381.3,Cost Cutting,8.71,High
+eBay,HealthTech,India,2024,4,Series C,32089,2941,0.0917,176.9,Cost Cutting,,Medium
+Coinbase,HealthTech,Netherlands,2022,3,Series A,108699,7891,0.0726,7.0,Cost Cutting,,Medium
+Dropbox,EdTech,USA,2022,12,Series C,97774,14291,0.1462,446.6,Regulatory Pressure,,Medium
+HP,Logistics,Germany,2023,1,Series C,27344,2008,0.0734,252.0,Market Downturn,,Medium
+LinkedIn,Gaming,USA,2024,3,Series D+,90915,13812,0.1519,850.3,Restructuring,,High
+Amazon,Logistics,USA,2023,4,Public,55208,794,0.0144,4995.5,Merger/Acquisition,-0.56,Low
+eBay,Cybersecurity,France,2024,8,Public,71325,7196,0.1009,2865.1,Restructuring,-1.31,Medium
+HP,Gaming,Canada,2020,9,Series D+,52074,11604,0.2228,397.1,Restructuring,,High
+Spotify,EdTech,USA,2023,3,Public,86048,9932,0.1154,2989.4,Over-hiring Post-COVID,-11.05,Medium
+Google,Social Media,USA,2023,6,Public,64730,8500,0.1313,3553.7,Market Downturn,12.94,Medium
+Dropbox,EdTech,UK,2024,10,Series D+,41081,6491,0.158,917.3,Cost Cutting,,High
+Airbnb,Logistics,USA,2022,11,Public,25605,5470,0.2137,3408.6,Over-hiring Post-COVID,-5.13,High
+Getir,E-Commerce,USA,2024,5,Public,80330,803,0.01,8493.0,Merger/Acquisition,-2.93,Low
+Klarna,EdTech,USA,2023,6,Series D+,69657,11616,0.1668,1128.7,Restructuring,,High
+IBM,EdTech,USA,2022,4,Public,87735,8646,0.0985,6616.7,IPO Preparation,-2.89,Medium
+PayPal,E-Commerce,Australia,2021,10,Series A,2847,379,0.1333,38.1,Cost Cutting,,Medium
+Gorillas,EdTech,USA,2024,6,Series A,48150,9860,0.2048,64.2,Regulatory Pressure,,High
+Coinbase,FinTech,USA,2022,7,Series C,148682,3637,0.0245,273.8,Market Downturn,,Low
+Snap,Social Media,UK,2022,9,Public,136495,5321,0.039,4937.5,Product Pivot,-4.31,Low
+Oracle,Cloud Computing,France,2022,10,Series B,125426,1254,0.01,128.2,Regulatory Pressure,,Low
+Shopify,Social Media,USA,2024,7,Series B,81647,6210,0.0761,153.7,Restructuring,,Medium
+eBay,Hardware,USA,2023,6,Series B,48635,11012,0.2264,150.6,Restructuring,,High
+PayPal,SaaS,USA,2023,1,Public,19699,2173,0.1104,4049.7,Restructuring,-2.96,Medium
+Oracle,EdTech,Canada,2022,2,Series C,140638,1798,0.0128,236.0,Restructuring,,Low
+Dell,FinTech,Germany,2023,1,Series B,102083,8283,0.0811,150.7,Cost Cutting,,Medium
+Netflix,Gaming,Australia,2023,9,Series C,92790,927,0.01,385.8,Market Downturn,,Low
+PayPal,EdTech,Singapore,2024,10,Series C,121287,3636,0.03,252.8,Regulatory Pressure,,Low
+Microsoft,Logistics,Australia,2024,10,Series D+,114927,17366,0.1511,292.1,Over-hiring Post-COVID,,High
+Snap,FinTech,Germany,2020,9,Series D+,148563,3876,0.0261,733.7,Cost Cutting,,Low
+Google,E-Commerce,UK,2023,7,Public,87993,18391,0.209,6247.1,Market Downturn,-6.46,High
+Airbnb,FinTech,USA,2020,2,Series C,132206,15112,0.1143,516.7,Regulatory Pressure,,Medium
+Bolt,Hardware,Brazil,2023,6,Public,13271,1683,0.1268,2604.1,Over-hiring Post-COVID,-15.41,Medium
+Shopify,E-Commerce,USA,2022,11,Series D+,126107,12324,0.0977,663.5,Restructuring,,Medium
+Opendoor,Cybersecurity,USA,2022,4,Public,149870,27250,0.1818,4221.2,Market Downturn,-6.64,High
+Lyft,Cloud Computing,India,2022,1,Series D+,80376,14680,0.1827,1233.9,Restructuring,,High
+Uber,AI/ML,USA,2023,1,Public,60148,8829,0.1468,4930.1,IPO Preparation,-7.57,Medium
+Gorillas,FinTech,Germany,2022,12,Series C,76283,12600,0.1652,191.1,Market Downturn,,High
+Salesforce,HealthTech,Germany,2023,5,Series B,44940,4630,0.103,146.8,Merger/Acquisition,,Medium
+eBay,Logistics,USA,2022,12,Public,32155,5253,0.1634,4190.7,Product Pivot,2.99,High
+Opendoor,EdTech,France,2020,2,Public,43539,4047,0.093,2551.2,Restructuring,2.81,Medium
+Salesforce,Logistics,USA,2023,4,Public,55755,6700,0.1202,3214.5,Restructuring,-3.79,Medium
+Gorillas,Social Media,USA,2022,1,Series A,72719,7128,0.098,67.7,Restructuring,,Medium
+Better.com,AI/ML,UK,2022,4,Series D+,11744,979,0.0834,922.9,Merger/Acquisition,,Medium
+Shopify,Social Media,India,2023,11,Series D+,95094,6168,0.0649,834.5,Cost Cutting,,Medium
+Zoom,Cybersecurity,Australia,2022,6,Public,59095,9302,0.1574,4500.2,Over-hiring Post-COVID,-5.67,High
+Salesforce,AI/ML,USA,2020,10,Series C,104398,23473,0.2248,335.1,Restructuring,,High
+Salesforce,AI/ML,India,2022,4,Series A,28871,6169,0.2137,44.5,Restructuring,,High
+Microsoft,Social Media,USA,2024,1,Series B,6414,124,0.0195,134.0,Regulatory Pressure,,Low
+Twilio,E-Commerce,Singapore,2023,7,Series C,27680,6176,0.2231,313.8,Regulatory Pressure,,High
+Cisco,Hardware,USA,2023,2,Public,135260,12788,0.0945,6737.6,Cost Cutting,5.81,Medium
+Twilio,Social Media,Canada,2023,9,Public,80719,13565,0.1681,5046.2,Cost Cutting,-2.88,High
+Peloton,Logistics,USA,2022,3,Public,79116,3758,0.0475,3044.1,Product Pivot,2.0,Low
+LinkedIn,E-Commerce,USA,2022,8,Public,141488,18585,0.1314,3775.2,Market Downturn,-5.26,Medium
+Stripe,Logistics,UK,2023,8,Public,95713,13887,0.1451,1042.0,Restructuring,2.43,Medium
+Google,Hardware,France,2021,3,Public,38305,383,0.01,9053.6,Market Downturn,1.81,Low
+Peloton,Cybersecurity,UK,2022,4,Series D+,145025,24460,0.1687,1076.1,IPO Preparation,,High
+Gorillas,EdTech,Singapore,2022,2,Private Equity,127099,28937,0.2277,1002.0,Cost Cutting,,High
+Bolt,Hardware,UK,2022,4,Series C,74676,7917,0.106,266.2,Cost Cutting,,Medium
+LinkedIn,SaaS,UK,2024,11,Series B,95299,21805,0.2288,89.4,Product Pivot,,High
+Peloton,Gaming,USA,2020,11,Series C,98885,10365,0.1048,485.1,Over-hiring Post-COVID,,Medium
+Salesforce,E-Commerce,Australia,2023,11,Public,89419,16807,0.188,2160.2,Merger/Acquisition,4.17,High
+Amazon,Cybersecurity,USA,2022,9,Series B,138982,1389,0.01,125.5,Merger/Acquisition,,Low
+Netflix,SaaS,Netherlands,2024,2,Public,81962,25695,0.3135,4782.9,Merger/Acquisition,0.43,High
+Coinbase,HealthTech,Netherlands,2021,12,Series C,31659,7586,0.2396,399.2,Cost Cutting,,High
+Cisco,Cybersecurity,Singapore,2022,12,Public,42539,4136,0.0972,4792.0,Restructuring,-4.92,Medium
+Microsoft,Social Media,UK,2023,3,Private Equity,48300,483,0.01,445.1,Regulatory Pressure,,Low
+IBM,Social Media,India,2023,11,Public,41261,5902,0.143,4497.8,Product Pivot,-18.04,Medium
+Salesforce,Hardware,Canada,2022,11,Public,95126,951,0.01,3055.7,Over-hiring Post-COVID,-9.61,Low
+Twilio,Gaming,USA,2022,4,Private Equity,118868,18494,0.1556,1547.7,IPO Preparation,,High
+Getir,Cybersecurity,Germany,2022,5,Public,81403,12448,0.1529,7868.4,Merger/Acquisition,-7.6,High
+Amazon,Cloud Computing,USA,2022,1,Series C,119498,5340,0.0447,91.3,Product Pivot,,Low
+IBM,EdTech,UK,2022,7,Series C,137385,28806,0.2097,204.0,Regulatory Pressure,,High
+Cisco,Hardware,USA,2023,10,Series B,60394,11139,0.1844,93.5,Regulatory Pressure,,High
+Lyft,Social Media,USA,2022,7,Private Equity,51944,10288,0.1981,1271.0,Cost Cutting,,High
+eBay,Gaming,USA,2022,9,Private Equity,62248,7513,0.1207,1944.1,Merger/Acquisition,,Medium
+Twitter/X,EdTech,USA,2023,4,Public,41690,416,0.01,4652.9,Over-hiring Post-COVID,-9.59,Low
+Salesforce,Cybersecurity,Germany,2024,6,Series B,40818,8091,0.1982,140.0,IPO Preparation,,High
+eBay,Cybersecurity,USA,2023,11,Series C,124578,12254,0.0984,224.9,Market Downturn,,Medium
+Microsoft,AI/ML,UK,2020,2,Series C,40259,402,0.01,327.6,Regulatory Pressure,,Low
+Uber,Gaming,USA,2020,12,Public,16998,3878,0.2282,6555.6,Regulatory Pressure,1.36,High
+Netflix,SaaS,Germany,2024,12,Series C,26489,7627,0.288,212.1,IPO Preparation,,High
+Better.com,Social Media,India,2022,4,Private Equity,117535,13716,0.1167,1968.8,Regulatory Pressure,,Medium
+Netflix,Cloud Computing,Germany,2021,2,Series A,67077,19635,0.2927,40.8,Over-hiring Post-COVID,,High
+Intel,Cybersecurity,Canada,2023,10,Series D+,105731,13460,0.1273,1134.5,IPO Preparation,,Medium
+Meta,Cloud Computing,USA,2023,5,Public,90400,8096,0.0896,4597.2,Restructuring,3.35,Medium
+eBay,Cybersecurity,Canada,2023,7,Series D+,105179,7316,0.0696,922.0,Merger/Acquisition,,Medium
+HP,Social Media,USA,2022,1,Series B,23982,6018,0.251,118.1,Merger/Acquisition,,High
+Getir,EdTech,UK,2020,10,Series C,69712,4014,0.0576,288.5,Market Downturn,,Medium
+Gorillas,FinTech,India,2024,10,Series D+,30548,5462,0.1788,882.9,IPO Preparation,,High
+Cisco,EdTech,USA,2022,7,Public,134637,10133,0.0753,6073.6,Market Downturn,-2.57,Medium
+Bolt,Cybersecurity,India,2023,10,Series D+,133608,11112,0.0832,400.1,IPO Preparation,,Medium
+Dell,Logistics,Germany,2023,6,Series D+,36314,7350,0.2024,1258.8,Merger/Acquisition,,High
+Google,FinTech,USA,2023,6,Series A,148496,13304,0.0896,10.2,Restructuring,,Medium
+Better.com,SaaS,USA,2022,12,Series C,129993,11389,0.0876,217.8,Regulatory Pressure,,Medium
+Salesforce,FinTech,USA,2022,8,Public,60704,12785,0.2106,4811.5,IPO Preparation,-8.24,High
+Snap,Cloud Computing,Singapore,2023,8,Series D+,33344,8262,0.2478,932.0,Market Downturn,,High
+Twitter/X,Gaming,India,2024,6,Public,82443,14145,0.1716,8152.3,Cost Cutting,-3.95,High
+Dropbox,Cloud Computing,USA,2024,3,Private Equity,22018,1488,0.0676,385.0,Regulatory Pressure,,Medium
+Snap,Hardware,USA,2021,5,Series D+,148631,11764,0.0792,637.5,Merger/Acquisition,,Medium
+Amazon,Cloud Computing,Germany,2022,2,Series D+,23552,2976,0.1264,119.4,Over-hiring Post-COVID,,Medium
+Dell,SaaS,France,2024,5,Series D+,70303,10241,0.1457,810.1,Over-hiring Post-COVID,,Medium
+Amazon,Logistics,USA,2023,9,Series C,72024,2950,0.041,332.6,Regulatory Pressure,,Low
+Netflix,EdTech,USA,2024,10,Series C,90072,16018,0.1778,490.9,Restructuring,,High
+Meta,EdTech,Netherlands,2022,1,Series C,140252,17789,0.1268,314.5,Cost Cutting,,Medium
+Gorillas,HealthTech,USA,2023,10,Public,67521,675,0.01,7088.1,Market Downturn,-9.08,Low
+Stripe,Cybersecurity,USA,2023,5,Public,20543,938,0.0457,6167.7,IPO Preparation,-2.64,Low
+Oracle,Logistics,Singapore,2023,12,Public,2919,232,0.0797,4129.5,Merger/Acquisition,-9.21,Medium
+Stripe,HealthTech,Germany,2022,6,Series C,122331,13966,0.1142,130.9,Over-hiring Post-COVID,,Medium
+Cisco,Hardware,USA,2020,11,Public,102299,27737,0.2711,5550.0,Over-hiring Post-COVID,4.52,High
+IBM,Social Media,USA,2023,7,Series C,148712,20678,0.1391,120.9,Over-hiring Post-COVID,,Medium
+LinkedIn,Cybersecurity,USA,2022,9,Series A,58100,3064,0.0527,60.7,Over-hiring Post-COVID,,Medium
+Getir,Cybersecurity,USA,2023,6,Series A,116967,16100,0.1377,37.4,Product Pivot,,Medium
+Klarna,AI/ML,Netherlands,2024,5,Series D+,78997,7254,0.0918,1182.5,Restructuring,,Medium
+Twilio,AI/ML,USA,2022,12,Series D+,109111,15928,0.146,646.3,Market Downturn,,Medium
+Peloton,E-Commerce,Canada,2024,7,Public,138059,22979,0.1664,5537.7,Merger/Acquisition,-6.88,High
+Twitter/X,E-Commerce,Netherlands,2022,1,Series C,61192,13262,0.2167,325.1,Merger/Acquisition,,High
+HP,Cloud Computing,USA,2023,11,Series B,62612,7391,0.1181,117.8,Merger/Acquisition,,Medium
+Cisco,Social Media,USA,2024,5,Public,16860,4233,0.2511,4134.7,Market Downturn,-5.6,High
+Stripe,FinTech,UK,2021,2,Series D+,83538,16092,0.1926,925.6,Restructuring,,High
+Opendoor,FinTech,Netherlands,2020,4,Series B,3517,222,0.0634,75.5,Regulatory Pressure,,Medium
+Intel,AI/ML,Australia,2022,7,Series A,86761,25749,0.2968,20.6,Regulatory Pressure,,High
+Klarna,AI/ML,USA,2021,5,Public,66820,9766,0.1462,7485.7,Cost Cutting,-6.19,Medium
+Klarna,AI/ML,India,2023,12,Series C,31627,1682,0.0532,387.3,IPO Preparation,,Medium
+Meta,Logistics,Germany,2024,6,Public,134768,33992,0.2522,5131.8,Regulatory Pressure,2.58,High
+Shopify,Gaming,Netherlands,2022,2,Public,75588,21634,0.2862,8330.3,IPO Preparation,-7.1,High
+Unity,E-Commerce,USA,2022,3,Series A,32421,3804,0.1174,35.7,Restructuring,,Medium
+Lyft,Logistics,UK,2022,7,Series B,5246,418,0.0797,183.5,Over-hiring Post-COVID,,Medium
+Cisco,EdTech,France,2023,11,Series B,69035,7332,0.1062,128.4,IPO Preparation,,Medium
+Gorillas,FinTech,USA,2020,2,Public,65850,11667,0.1772,2950.5,Over-hiring Post-COVID,-1.18,High
+HP,Hardware,UK,2023,12,Series B,81631,18140,0.2222,208.7,Restructuring,,High
+Twilio,SaaS,USA,2023,6,Series D+,22563,3737,0.1656,1117.0,Restructuring,,High
+Klarna,Cybersecurity,USA,2023,5,Public,117616,15071,0.1281,4758.0,Market Downturn,-6.53,Medium
+Zoom,E-Commerce,USA,2022,10,Series D+,89413,21444,0.2398,1032.7,Market Downturn,,High
+Gorillas,HealthTech,Singapore,2023,1,Public,79446,7545,0.095,4192.6,Product Pivot,-5.04,Medium
+Twitter/X,EdTech,USA,2021,12,Series B,135170,27368,0.2025,159.8,Merger/Acquisition,,High
+Uber,Hardware,UK,2022,11,Series C,11064,1072,0.097,13.1,Product Pivot,,Medium
+HP,E-Commerce,India,2024,10,Public,50225,7758,0.1545,2960.4,Merger/Acquisition,-9.31,High
+eBay,SaaS,USA,2023,11,Public,86634,9609,0.1109,6958.5,Over-hiring Post-COVID,8.17,Medium
+Microsoft,Logistics,UK,2020,4,Public,106440,12297,0.1155,4500.7,Product Pivot,2.98,Medium
+PayPal,Social Media,Canada,2022,11,Public,62585,5620,0.0898,5415.1,Product Pivot,-3.44,Medium
+PayPal,Cybersecurity,France,2022,2,Series C,18362,4178,0.2276,138.4,Cost Cutting,,High
+Airbnb,E-Commerce,Germany,2022,4,Series B,10765,660,0.0614,208.7,Restructuring,,Medium
+Lyft,Gaming,India,2022,1,Public,141277,8587,0.0608,7381.1,Market Downturn,9.12,Medium
+HP,AI/ML,USA,2020,2,Public,62971,18241,0.2897,4598.6,Product Pivot,-6.45,High
+Wayfair,AI/ML,Singapore,2023,8,Series C,91580,18153,0.1982,251.4,Market Downturn,,High
+Getir,Cybersecurity,USA,2023,6,Series B,56328,563,0.01,169.4,Merger/Acquisition,,Low
+Better.com,SaaS,Canada,2023,2,Public,117384,8777,0.0748,8964.9,Product Pivot,-1.07,Medium
+Dropbox,Hardware,USA,2023,12,Public,108507,1085,0.01,6907.5,Merger/Acquisition,-9.03,Low
+IBM,Logistics,Singapore,2021,6,Series C,46604,2048,0.0439,560.6,Regulatory Pressure,,Low
+Better.com,AI/ML,Canada,2024,10,Public,41434,414,0.01,3155.3,Regulatory Pressure,-6.22,Low
+PayPal,E-Commerce,Canada,2024,9,Public,114920,12530,0.109,3361.2,Product Pivot,-8.89,Medium
+Oracle,HealthTech,USA,2024,7,Series B,6550,187,0.0286,62.9,Regulatory Pressure,,Low
+Better.com,FinTech,USA,2024,9,Series C,8984,1121,0.1248,353.0,IPO Preparation,,Medium
+Amazon,FinTech,Germany,2024,5,Series C,63148,631,0.01,321.1,Over-hiring Post-COVID,,Low
+HP,EdTech,Canada,2023,7,Series B,60445,7654,0.1266,112.7,Cost Cutting,,Medium
+Salesforce,Hardware,USA,2022,11,Series C,31823,2762,0.0868,397.1,Merger/Acquisition,,Medium
+Salesforce,Cloud Computing,Brazil,2023,7,Public,86832,20853,0.2402,7464.7,Restructuring,9.51,High
+Google,Social Media,Netherlands,2023,12,Series D+,95105,22150,0.2329,311.8,Restructuring,,High
+Spotify,Cybersecurity,USA,2023,12,Public,10815,1977,0.1828,3806.1,Over-hiring Post-COVID,-8.09,High
+Lyft,EdTech,Australia,2023,3,Public,48468,4549,0.0939,6640.3,Regulatory Pressure,-5.34,Medium
+IBM,Cloud Computing,UK,2020,7,Series C,9607,2678,0.2788,243.9,Over-hiring Post-COVID,,High
+Unity,Logistics,UK,2022,1,Series A,56281,562,0.01,27.2,Regulatory Pressure,,Low
+Better.com,Gaming,USA,2024,9,Private Equity,4369,43,0.01,2111.1,IPO Preparation,,Low
+Twilio,Gaming,Germany,2023,10,Series C,81483,9231,0.1133,145.3,Restructuring,,Medium
+Robinhood,Social Media,Canada,2023,6,Public,8471,2544,0.3003,4396.8,Merger/Acquisition,1.04,High
+Bolt,Hardware,USA,2022,5,Public,97305,10101,0.1038,5657.3,Restructuring,-5.07,Medium
+Unity,AI/ML,Germany,2022,7,Series B,26151,2754,0.1053,92.5,Cost Cutting,,Medium
+Getir,E-Commerce,India,2024,5,Series C,57474,574,0.01,394.0,Product Pivot,,Low
+Better.com,EdTech,Canada,2023,10,Series C,23946,4685,0.1957,231.7,Regulatory Pressure,,High
+Gorillas,EdTech,USA,2023,5,Series B,4323,848,0.1963,187.6,Cost Cutting,,High
+Robinhood,Cybersecurity,France,2023,11,Series C,145026,26558,0.1831,284.9,IPO Preparation,,High
+Better.com,Cybersecurity,UK,2023,10,Series B,135504,9439,0.0697,152.2,IPO Preparation,,Medium
+Microsoft,Gaming,USA,2022,11,Public,141792,8998,0.0635,6492.0,Regulatory Pressure,-6.64,Medium
+Shopify,Gaming,USA,2023,7,Series B,68465,1133,0.0166,89.9,Regulatory Pressure,,Low
+Amazon,Hardware,UK,2022,10,Series A,11010,1395,0.1267,7.1,Restructuring,,Medium
+Snap,SaaS,Netherlands,2022,7,Public,142109,4770,0.0336,5721.5,Product Pivot,3.97,Low
+Twitter/X,HealthTech,USA,2023,11,Series C,106435,2746,0.0258,308.7,Restructuring,,Low
+Snap,HealthTech,Canada,2024,3,Public,69634,5995,0.0861,6111.7,Cost Cutting,8.63,Medium
+Better.com,SaaS,USA,2020,3,Private Equity,72754,5883,0.0809,1364.1,Cost Cutting,,Medium
+Getir,AI/ML,UK,2024,10,Public,145354,11186,0.077,4139.1,Regulatory Pressure,1.39,Medium
+Dell,HealthTech,Brazil,2022,12,Series C,115280,18135,0.1573,541.0,Merger/Acquisition,,High
+Peloton,Hardware,Canada,2022,3,Public,126044,15922,0.1263,2055.3,Merger/Acquisition,-3.75,Medium
+Bolt,E-Commerce,USA,2020,6,Series C,66087,6406,0.0969,388.1,Cost Cutting,,Medium
+LinkedIn,E-Commerce,UK,2022,12,Public,82738,11139,0.1346,3850.8,Product Pivot,-4.55,Medium
+IBM,EdTech,USA,2023,6,Public,76220,3100,0.0407,4328.4,Regulatory Pressure,-0.46,Low
+Unity,FinTech,USA,2020,3,Series D+,78504,10081,0.1284,698.5,IPO Preparation,,Medium
+Lyft,SaaS,Australia,2023,3,Series A,22572,2980,0.132,27.1,Merger/Acquisition,,Medium
+Twitter/X,E-Commerce,Canada,2024,8,Public,81515,815,0.01,6142.4,Merger/Acquisition,4.05,Low
+Unity,Cloud Computing,USA,2021,8,Public,73246,14623,0.1997,7781.3,Market Downturn,-18.33,High
+Microsoft,Gaming,Singapore,2023,7,Series B,102760,5085,0.0495,142.6,Market Downturn,,Low
+Intel,Cybersecurity,Germany,2022,10,Series D+,137629,17509,0.1272,833.1,Merger/Acquisition,,Medium
+Amazon,Hardware,USA,2023,4,Series A,128759,27445,0.2132,24.2,Restructuring,,High
+Robinhood,HealthTech,UK,2022,4,Public,31416,6096,0.1941,6033.7,Product Pivot,-3.82,High
+Peloton,SaaS,Germany,2022,3,Series C,27768,3408,0.1227,558.8,Over-hiring Post-COVID,,Medium
+Bolt,EdTech,Germany,2022,5,Public,23759,2162,0.091,4238.6,Merger/Acquisition,1.43,Medium
+Bolt,Social Media,UK,2020,3,Public,79900,15644,0.1958,4248.0,Market Downturn,3.96,High
+eBay,Cybersecurity,UK,2022,8,Series C,34793,6053,0.174,232.7,Product Pivot,,High
+Robinhood,Cloud Computing,USA,2023,7,Series C,112081,7905,0.0705,241.3,Product Pivot,,Medium
+Twitter/X,HealthTech,Australia,2024,3,Series B,7543,425,0.0564,11.8,Market Downturn,,Medium
+Netflix,Cloud Computing,UK,2024,9,Public,107509,1075,0.01,5810.1,Regulatory Pressure,-14.12,Low
+Cisco,Gaming,USA,2023,12,Series D+,39393,5212,0.1323,529.4,Product Pivot,,Medium
+Snap,Gaming,Canada,2021,5,Series D+,26809,3039,0.1134,284.7,Regulatory Pressure,,Medium
+Getir,Hardware,Singapore,2022,9,Private Equity,23784,5015,0.2109,1951.9,Product Pivot,,High
+Salesforce,AI/ML,Singapore,2022,7,Public,127301,18932,0.1487,2836.0,Market Downturn,-0.89,Medium
+Lyft,EdTech,USA,2022,7,Public,113759,25793,0.2267,4322.7,Cost Cutting,-5.74,High
+Dropbox,Cybersecurity,USA,2023,6,Series D+,101304,6504,0.0642,1269.3,Merger/Acquisition,,Medium
+eBay,Logistics,UK,2023,2,Series C,69500,14668,0.2111,130.9,Restructuring,,High
+Intel,Logistics,USA,2022,9,Public,84679,6578,0.0777,1934.8,Regulatory Pressure,4.24,Medium
+eBay,Cybersecurity,Singapore,2022,6,Series A,65549,11943,0.1822,44.3,Over-hiring Post-COVID,,High
+Dell,Social Media,USA,2024,8,Public,29765,297,0.01,7299.0,Restructuring,-2.99,Low
+Airbnb,Hardware,USA,2023,1,Series A,24380,3384,0.1388,14.8,Cost Cutting,,Medium
+PayPal,EdTech,USA,2022,5,Public,85079,850,0.01,5815.4,IPO Preparation,0.71,Low
+Better.com,Cloud Computing,USA,2024,12,Series C,131827,13001,0.0986,369.7,Cost Cutting,,Medium
+Intel,Social Media,Australia,2024,1,Series A,133074,20656,0.1552,7.1,Product Pivot,,High
+Bolt,FinTech,UK,2022,10,Public,65924,5163,0.0783,6597.0,Restructuring,-11.92,Medium
+Microsoft,Cybersecurity,USA,2022,11,Private Equity,71466,2570,0.036,2026.0,Regulatory Pressure,,Low
+Twitter/X,Cloud Computing,USA,2023,8,Series D+,67896,12743,0.1877,700.2,Regulatory Pressure,,High
+Gorillas,Logistics,UK,2024,8,Private Equity,72194,8065,0.1117,2251.4,Cost Cutting,,Medium
+Lyft,E-Commerce,USA,2024,1,Series C,137378,11104,0.0808,436.4,Restructuring,,Medium
+Coinbase,SaaS,Germany,2021,9,Public,17606,2171,0.1234,5206.2,Cost Cutting,-13.81,Medium
+Peloton,AI/ML,Germany,2022,2,Public,57231,18939,0.3309,4097.1,Over-hiring Post-COVID,-7.5,High
+Stripe,Logistics,Canada,2023,12,Public,75510,16029,0.2123,3054.3,Cost Cutting,-3.42,High
+Unity,EdTech,Singapore,2023,9,Public,33099,7050,0.213,4924.9,Restructuring,-5.33,High
+HP,Gaming,Netherlands,2022,1,Public,71826,11121,0.1548,6139.5,Product Pivot,-9.02,High
+Shopify,SaaS,Singapore,2024,12,Public,76206,10159,0.1333,4351.6,Restructuring,-8.29,Medium
+Cisco,SaaS,USA,2023,10,Series D+,9504,95,0.01,96.8,Market Downturn,,Low
+Dropbox,E-Commerce,USA,2024,9,Series B,115518,7587,0.0657,180.9,Restructuring,,Medium
+Meta,AI/ML,USA,2024,4,Public,26292,2144,0.0816,5380.4,Over-hiring Post-COVID,6.26,Medium
+Gorillas,AI/ML,Netherlands,2023,9,Public,55145,551,0.01,4240.8,Merger/Acquisition,-3.11,Low
+Zoom,FinTech,Brazil,2022,7,Series C,7732,211,0.0274,402.9,Over-hiring Post-COVID,,Low
+eBay,FinTech,France,2023,11,Public,55266,552,0.01,8049.3,Over-hiring Post-COVID,-0.97,Low
+Bolt,HealthTech,USA,2022,6,Public,121101,14160,0.1169,603.8,Cost Cutting,2.07,Medium
+Dropbox,Logistics,Singapore,2023,5,Public,82088,15227,0.1855,5868.5,Over-hiring Post-COVID,-17.5,High
+Meta,Logistics,USA,2022,11,Series A,6413,1337,0.2085,17.2,Restructuring,,High
+IBM,Logistics,USA,2023,9,Series B,112906,17295,0.1532,144.0,Regulatory Pressure,,High
+Zoom,HealthTech,USA,2022,2,Series D+,114193,4902,0.0429,840.9,Merger/Acquisition,,Low
+Stripe,Hardware,USA,2021,11,Series C,93949,939,0.01,376.3,Regulatory Pressure,,Low
+Stripe,Social Media,UK,2022,12,Series D+,11067,110,0.01,640.2,IPO Preparation,,Low
+Snap,AI/ML,USA,2020,2,Series C,38879,718,0.0185,75.2,Product Pivot,,Low
+eBay,E-Commerce,UK,2023,11,Series C,819,40,0.0489,246.0,IPO Preparation,,Low
+Klarna,EdTech,Germany,2023,12,Series C,90505,9703,0.1072,348.8,Over-hiring Post-COVID,,Medium
+PayPal,AI/ML,France,2023,9,Public,111490,4333,0.0389,7030.8,Regulatory Pressure,-6.65,Low
+eBay,FinTech,India,2022,12,Public,5291,778,0.1471,2656.3,Restructuring,-9.66,Medium
+Cisco,SaaS,USA,2021,3,Series D+,131901,13377,0.1014,1128.7,Cost Cutting,,Medium
+Getir,Cloud Computing,Australia,2020,8,Series A,61532,7435,0.1208,29.6,Cost Cutting,,Medium
+Amazon,Gaming,Netherlands,2022,11,Series C,89162,18832,0.2112,343.5,Product Pivot,,High
+Spotify,HealthTech,USA,2024,9,Series B,21800,557,0.0256,95.5,Product Pivot,,Low
+Airbnb,Cybersecurity,UK,2022,8,Private Equity,76200,11696,0.1535,1609.3,Restructuring,,High
+Robinhood,Cloud Computing,USA,2022,4,Public,56109,6670,0.1189,6783.8,Product Pivot,4.25,Medium
+Opendoor,EdTech,USA,2021,12,Series C,90545,8449,0.0933,152.8,Regulatory Pressure,,Medium
+Robinhood,Logistics,India,2022,1,Series C,62401,11907,0.1908,218.4,Regulatory Pressure,,High
+Oracle,FinTech,France,2023,4,Private Equity,6203,1180,0.1903,1611.0,Product Pivot,,High
+LinkedIn,FinTech,USA,2023,9,Private Equity,63615,2816,0.0443,2941.0,Cost Cutting,,Low
+PayPal,FinTech,Australia,2022,2,Series C,28176,2970,0.1054,196.4,Restructuring,,Medium
+Spotify,Logistics,France,2020,3,Public,121832,17360,0.1425,9080.3,Merger/Acquisition,-3.99,Medium
+Salesforce,Cybersecurity,Netherlands,2022,10,Series B,30302,2974,0.0982,216.2,Product Pivot,,Medium
+LinkedIn,HealthTech,USA,2022,8,Public,90831,15150,0.1668,4805.4,Restructuring,-3.28,High
+Better.com,Cloud Computing,Netherlands,2022,6,Series B,125286,17852,0.1425,105.7,Over-hiring Post-COVID,,Medium
+Unity,Logistics,USA,2024,8,Series A,65669,17507,0.2666,28.9,Cost Cutting,,High
+Shopify,EdTech,Germany,2023,7,Series D+,68647,686,0.01,778.2,Merger/Acquisition,,Low
+eBay,HealthTech,USA,2023,5,Series C,22575,2487,0.1102,131.2,Regulatory Pressure,,Medium
+Coinbase,EdTech,USA,2022,9,Series D+,82515,3904,0.0473,775.6,Cost Cutting,,Low
+Zoom,HealthTech,Canada,2022,4,Series D+,9804,1650,0.1683,1279.0,Cost Cutting,,High
+Spotify,Cybersecurity,USA,2023,6,Public,130351,1303,0.01,3777.8,Regulatory Pressure,-7.73,Low
+Oracle,Gaming,USA,2023,2,Series B,121229,17906,0.1477,108.4,Market Downturn,,Medium
+Netflix,EdTech,USA,2023,2,Private Equity,60122,4184,0.0696,479.3,Restructuring,,Medium
+Netflix,Logistics,India,2022,2,Private Equity,54715,3352,0.0613,1724.4,Regulatory Pressure,,Medium
+Shopify,HealthTech,USA,2023,10,Public,74473,744,0.01,5529.0,Over-hiring Post-COVID,-5.3,Low
+Coinbase,FinTech,Australia,2022,7,Series A,109154,9037,0.0828,41.0,Product Pivot,,Medium
+Spotify,Hardware,USA,2024,2,Series B,144093,29792,0.2068,109.6,Over-hiring Post-COVID,,High
+Meta,AI/ML,USA,2023,12,Public,24528,2893,0.118,4414.5,Restructuring,-6.98,Medium
+Wayfair,FinTech,USA,2023,2,Public,39828,6779,0.1702,6003.8,Regulatory Pressure,-0.85,High
+Dell,Social Media,UK,2021,9,Public,27801,7038,0.2532,4942.4,Cost Cutting,3.28,High
+Twilio,Gaming,USA,2023,7,Series A,38515,5434,0.1411,45.0,Regulatory Pressure,,Medium
+Dropbox,Gaming,USA,2021,11,Series C,37345,2811,0.0753,325.8,Market Downturn,,Medium
+Uber,FinTech,Brazil,2022,3,Series C,87318,13742,0.1574,434.8,Restructuring,,High
+Wayfair,Cloud Computing,India,2021,3,Public,76894,5879,0.0765,6354.0,Merger/Acquisition,8.73,Medium
+Twilio,Cybersecurity,USA,2023,7,Series C,44214,3521,0.0796,323.1,Merger/Acquisition,,Medium
+Unity,EdTech,USA,2022,5,Public,81222,812,0.01,8036.8,Restructuring,-4.46,Low
+Unity,Logistics,France,2022,10,Series D+,25730,4994,0.1941,934.5,Product Pivot,,High
+Twilio,Gaming,USA,2024,6,Series C,93054,8292,0.0891,456.6,Over-hiring Post-COVID,,Medium
+SAP,FinTech,USA,2022,12,Public,49762,6696,0.1346,6213.9,Over-hiring Post-COVID,-5.2,Medium
+Uber,FinTech,Canada,2023,8,Series B,42222,1567,0.0371,31.6,Product Pivot,,Low
+Airbnb,Cybersecurity,Germany,2022,9,Public,63296,9803,0.1549,7609.7,Market Downturn,-9.63,High
+Meta,Cybersecurity,Germany,2020,1,Series C,87552,5169,0.059,316.2,Cost Cutting,,Medium
+HP,E-Commerce,USA,2023,3,Series D+,101308,11008,0.1087,783.4,IPO Preparation,,Medium
+Amazon,E-Commerce,USA,2020,11,Series C,136811,26025,0.1902,333.8,IPO Preparation,,High
+Coinbase,Cloud Computing,Germany,2023,7,Public,92451,16942,0.1833,4310.0,Cost Cutting,-4.04,High
+Twilio,Hardware,USA,2023,6,Public,51386,6075,0.1182,5454.1,Merger/Acquisition,-4.08,Medium
+Getir,Hardware,UK,2023,7,Series A,103924,1039,0.01,30.5,Market Downturn,,Low
+Microsoft,Cloud Computing,UK,2023,8,Public,105197,37810,0.3594,7548.5,Product Pivot,-0.46,High
+Meta,Social Media,USA,2022,6,Series B,96799,25135,0.2597,114.5,IPO Preparation,,High
+Lyft,Cloud Computing,Singapore,2020,3,Private Equity,149677,26614,0.1778,1270.4,Restructuring,,High
+Unity,HealthTech,France,2023,2,Public,14997,895,0.0597,3150.1,Regulatory Pressure,-2.0,Medium
+Google,Cybersecurity,Canada,2023,12,Public,133388,14794,0.1109,5537.6,Over-hiring Post-COVID,-11.78,Medium
+Wayfair,Hardware,USA,2024,7,Series C,119415,9138,0.0765,322.5,Regulatory Pressure,,Medium
+Snap,Logistics,USA,2024,12,Private Equity,92519,20456,0.2211,1733.1,Restructuring,,High
+Snap,HealthTech,UK,2024,12,Series A,109517,15441,0.141,23.6,Over-hiring Post-COVID,,Medium
+Uber,EdTech,USA,2023,12,Series D+,69885,4002,0.0573,287.6,Restructuring,,Medium
+Opendoor,FinTech,Brazil,2022,11,Series B,105653,8699,0.0823,150.0,Product Pivot,,Medium
+Better.com,Cloud Computing,USA,2023,1,Public,34326,7197,0.2097,7969.3,Product Pivot,2.68,High
+Dropbox,FinTech,UK,2023,3,Private Equity,110534,27413,0.248,884.2,Market Downturn,,High
+Coinbase,Gaming,USA,2022,12,Private Equity,84742,20530,0.2423,2453.7,Restructuring,,High
+Wayfair,Social Media,India,2024,11,Public,123566,22311,0.1806,5567.8,Restructuring,-1.43,High
+Spotify,Gaming,USA,2024,4,Public,50600,5049,0.0998,4985.9,Market Downturn,-2.29,Medium
+Unity,Social Media,USA,2023,1,Public,125670,1256,0.01,4204.9,Market Downturn,-3.16,Low
+Lyft,E-Commerce,USA,2020,5,Public,135931,19543,0.1438,2231.0,Regulatory Pressure,0.59,Medium
+Meta,FinTech,Netherlands,2022,10,Series B,96705,11590,0.1199,167.4,Product Pivot,,Medium
+Google,Social Media,USA,2024,3,Series D+,13309,1746,0.1312,551.8,Regulatory Pressure,,Medium
+LinkedIn,SaaS,Netherlands,2024,2,Public,64950,8074,0.1243,3440.4,Product Pivot,-3.85,Medium
+Dropbox,Hardware,France,2022,3,Public,38928,541,0.0139,6983.9,Regulatory Pressure,0.13,Low
+Lyft,SaaS,USA,2020,8,Private Equity,73290,12062,0.1646,370.2,Merger/Acquisition,,High
+Gorillas,SaaS,Australia,2024,6,Series C,111626,19040,0.1706,117.2,Restructuring,,High
+Google,AI/ML,USA,2022,7,Series D+,90821,15856,0.1746,794.2,Regulatory Pressure,,High
+Better.com,Hardware,Brazil,2023,12,Public,2593,507,0.1957,5586.6,Regulatory Pressure,-8.91,High
+Coinbase,HealthTech,UK,2024,6,Private Equity,44998,7574,0.1683,1790.8,Product Pivot,,High
+Lyft,Social Media,USA,2020,6,Series B,116751,10180,0.0872,105.5,IPO Preparation,,Medium
+Opendoor,Social Media,USA,2023,12,Public,41485,4743,0.1143,10060.7,Product Pivot,-0.6,Medium
+Klarna,HealthTech,USA,2020,3,Public,32509,4138,0.1273,4544.2,Restructuring,-1.16,Medium
+Wayfair,FinTech,Brazil,2022,12,Public,129015,16593,0.1286,4538.4,Market Downturn,3.01,Medium
+LinkedIn,FinTech,USA,2024,8,Public,18218,3641,0.1999,3406.0,Restructuring,-6.83,High
+HP,SaaS,India,2022,12,Series C,17205,2950,0.1715,314.9,IPO Preparation,,High
+Wayfair,HealthTech,USA,2024,7,Series A,88118,25218,0.2862,49.8,Cost Cutting,,High
+SAP,Hardware,Singapore,2023,7,Series D+,63098,18709,0.2965,1185.1,Restructuring,,High
+Microsoft,SaaS,USA,2022,6,Series B,78378,9904,0.1264,48.5,Cost Cutting,,Medium
+Gorillas,Gaming,UK,2022,5,Series D+,12739,127,0.01,721.3,Regulatory Pressure,,Low
+Zoom,AI/ML,UK,2022,10,Series C,47122,10317,0.2189,353.6,Restructuring,,High
+HP,Logistics,India,2022,8,Series B,47165,3620,0.0768,148.2,IPO Preparation,,Medium
+Peloton,EdTech,USA,2020,5,Public,32774,1831,0.0559,5013.1,Cost Cutting,-5.71,Medium
+Airbnb,AI/ML,USA,2022,9,Series D+,142991,12600,0.0881,973.6,Cost Cutting,,Medium
+Spotify,FinTech,USA,2023,9,Series C,108868,9174,0.0843,202.9,IPO Preparation,,Medium
+Snap,Logistics,Canada,2023,1,Public,146575,24768,0.169,8115.8,Restructuring,-6.78,High
+Spotify,E-Commerce,USA,2023,6,Series D+,109063,1090,0.01,1117.6,Merger/Acquisition,,Low
+Better.com,Cloud Computing,Germany,2023,7,Series D+,137246,4636,0.0338,369.6,Product Pivot,,Low
+Dropbox,SaaS,USA,2020,3,Private Equity,93603,13802,0.1475,854.9,Over-hiring Post-COVID,,Medium
+Zoom,Social Media,France,2022,7,Series D+,66946,11369,0.1698,465.0,Product Pivot,,High
+Uber,HealthTech,Singapore,2023,11,Series B,29572,5066,0.1713,152.5,Cost Cutting,,High
+Uber,HealthTech,UK,2023,11,Series D+,34217,1951,0.057,388.9,Regulatory Pressure,,Medium
+Bolt,Social Media,USA,2020,7,Series B,117702,4912,0.0417,104.1,Restructuring,,Low
+Unity,SaaS,USA,2024,11,Series C,122889,9765,0.0795,354.6,Restructuring,,Medium
+Airbnb,Cloud Computing,USA,2023,2,Series A,110025,15314,0.1392,38.9,Regulatory Pressure,,Medium
+Amazon,EdTech,USA,2023,7,Series D+,5146,1229,0.2388,882.8,Restructuring,,High
+Meta,Cloud Computing,India,2020,1,Series C,40213,402,0.01,172.1,Restructuring,,Low
+Twitter/X,Logistics,UK,2023,5,Series C,68436,7003,0.1023,371.4,Merger/Acquisition,,Medium
+Netflix,Cloud Computing,Singapore,2023,9,Series D+,22685,303,0.0134,603.8,Over-hiring Post-COVID,,Low
+Cisco,Logistics,USA,2023,7,Public,84763,847,0.01,4350.8,Market Downturn,-3.5,Low
+Amazon,Cloud Computing,India,2023,7,Public,52607,10382,0.1974,5475.5,Cost Cutting,-3.33,High
+Google,EdTech,UK,2024,11,Public,18063,2954,0.1636,5206.2,Over-hiring Post-COVID,-6.06,High
+Dropbox,EdTech,UK,2023,12,Series A,71229,11108,0.156,40.4,Product Pivot,,High
+Intel,FinTech,USA,2021,2,Public,16201,3137,0.1937,3498.7,Market Downturn,-3.14,High
+Netflix,Social Media,UK,2023,8,Public,128831,10515,0.0816,4400.9,Market Downturn,-6.31,Medium
+Twitter/X,EdTech,UK,2023,3,Series B,99780,8520,0.0854,120.1,Regulatory Pressure,,Medium
+Gorillas,Logistics,India,2023,8,Public,39165,11548,0.2949,2249.8,Restructuring,-2.42,High
+Getir,EdTech,Singapore,2022,3,Series D+,16457,1650,0.1003,652.0,Over-hiring Post-COVID,,Medium
+Twilio,FinTech,USA,2022,10,Public,46508,8316,0.1788,5775.4,Regulatory Pressure,0.85,High
+Stripe,HealthTech,USA,2024,7,Private Equity,62420,7522,0.1205,733.5,Product Pivot,,Medium
+Opendoor,Logistics,UK,2023,2,Series A,114328,1143,0.01,58.5,Restructuring,,Low
+Klarna,FinTech,UK,2024,4,Series A,124352,1243,0.01,60.3,Restructuring,,Low
+Shopify,Gaming,USA,2023,11,Series D+,133198,9814,0.0737,401.6,IPO Preparation,,Medium
+LinkedIn,Gaming,Canada,2023,6,Series B,91315,18672,0.2045,185.2,IPO Preparation,,High
+Oracle,E-Commerce,Brazil,2023,11,Public,38811,7104,0.1831,4712.8,IPO Preparation,0.02,High
+Snap,Cloud Computing,Singapore,2024,9,Public,32856,6345,0.1931,5837.0,Merger/Acquisition,0.95,High
+Twilio,Social Media,USA,2023,5,Public,4309,176,0.041,4006.7,Regulatory Pressure,-1.4,Low
+Dropbox,Cybersecurity,France,2023,9,Series C,35375,8817,0.2493,410.8,Cost Cutting,,High
+Wayfair,AI/ML,India,2022,5,Series D+,9965,426,0.0428,930.0,Market Downturn,,Low
+Oracle,FinTech,UK,2023,10,Series D+,74344,10187,0.137,539.5,Product Pivot,,Medium
+Oracle,HealthTech,UK,2023,8,Public,87389,10414,0.1192,2669.6,Market Downturn,-10.57,Medium
+HP,AI/ML,France,2022,1,Series D+,15750,1670,0.1061,332.7,Over-hiring Post-COVID,,Medium
+Stripe,HealthTech,UK,2022,7,Series C,46523,10564,0.2271,322.6,Cost Cutting,,High
+Amazon,Hardware,USA,2022,4,Series D+,101850,6476,0.0636,983.2,Restructuring,,Medium
+PayPal,Hardware,UK,2022,5,Series B,16927,203,0.012,151.2,Cost Cutting,,Low
+Stripe,Hardware,Germany,2022,6,Public,72143,8772,0.1216,4764.0,Restructuring,4.9,Medium
+Shopify,AI/ML,USA,2022,5,Series B,135011,11882,0.088,64.5,Regulatory Pressure,,Medium
+Microsoft,FinTech,Netherlands,2024,12,Series C,79172,30892,0.3902,218.2,IPO Preparation,,High
+eBay,Cybersecurity,India,2023,1,Public,17800,3099,0.1741,7304.7,Cost Cutting,-2.88,High
+Unity,AI/ML,India,2022,12,Public,60789,5304,0.0873,4030.7,Restructuring,-6.25,Medium
+Opendoor,FinTech,USA,2020,9,Series C,148754,5282,0.0355,317.2,Market Downturn,,Low
+Dropbox,EdTech,Germany,2023,2,Series B,20159,201,0.01,68.4,IPO Preparation,,Low
+Gorillas,Cybersecurity,USA,2022,9,Series D+,10860,412,0.038,907.7,IPO Preparation,,Low
+Cisco,Hardware,USA,2024,10,Public,21924,2832,0.1292,4084.6,IPO Preparation,-10.72,Medium
+Salesforce,Logistics,UK,2023,2,Series A,98535,23075,0.2342,56.7,Market Downturn,,High
+Airbnb,HealthTech,USA,2023,9,Series C,49291,10338,0.2097,392.8,Market Downturn,,High
+Zoom,Hardware,Germany,2022,6,Series D+,134637,18624,0.1383,641.4,Market Downturn,,Medium
+Bolt,Gaming,USA,2023,11,Series D+,12800,1205,0.0941,759.5,IPO Preparation,,Medium
+Getir,Cloud Computing,USA,2022,9,Public,33870,4792,0.1415,3897.8,Cost Cutting,-2.98,Medium
+Opendoor,Gaming,USA,2024,6,Series C,27709,2175,0.0785,129.7,Restructuring,,Medium
+Oracle,Hardware,Brazil,2023,6,Series D+,21427,5516,0.2575,525.6,Market Downturn,,High
+Gorillas,Cybersecurity,Germany,2022,11,Private Equity,35079,3678,0.1049,1618.9,Cost Cutting,,Medium
+PayPal,Logistics,India,2022,2,Series D+,9532,1078,0.1131,904.1,Restructuring,,Medium
+Getir,HealthTech,USA,2022,8,Series D+,93754,937,0.01,847.5,IPO Preparation,,Low
+Intel,Logistics,USA,2023,3,Series C,78913,8235,0.1044,263.8,Cost Cutting,,Medium
+Dropbox,AI/ML,Brazil,2022,7,Series A,114028,21313,0.1869,54.9,IPO Preparation,,High
+Shopify,HealthTech,USA,2023,5,Series B,124416,4302,0.0346,123.1,Merger/Acquisition,,Low
+Zoom,Hardware,USA,2022,3,Series D+,72802,4363,0.0599,1025.0,Market Downturn,,Medium
+Robinhood,AI/ML,India,2023,1,Series C,86257,15820,0.1834,87.1,Over-hiring Post-COVID,,High
+Peloton,FinTech,USA,2024,8,Series C,16432,164,0.01,170.7,Cost Cutting,,Low
+Salesforce,Cybersecurity,Australia,2023,3,Series D+,26214,5364,0.2046,890.8,Market Downturn,,High
+Robinhood,SaaS,UK,2023,2,Public,58303,4514,0.0774,2150.5,Product Pivot,2.66,Medium
+Opendoor,FinTech,USA,2022,1,Series D+,134124,11925,0.0889,732.0,Restructuring,,Medium
+Intel,E-Commerce,USA,2021,4,Public,57127,1718,0.0301,4395.8,Merger/Acquisition,-6.32,Low
+Spotify,Logistics,USA,2023,8,Series A,80310,12066,0.1502,65.4,Market Downturn,,High
+Snap,SaaS,Netherlands,2022,3,Public,45880,14534,0.3168,5800.0,Product Pivot,-4.69,High
+Oracle,AI/ML,India,2022,1,Private Equity,65186,11897,0.1825,1599.5,Cost Cutting,,High
+eBay,EdTech,USA,2020,4,Series D+,120821,6144,0.0509,1067.8,Cost Cutting,,Medium
+Zoom,FinTech,USA,2022,9,Series C,45528,9599,0.2108,344.2,Product Pivot,,High
+Coinbase,E-Commerce,India,2020,1,Series D+,146867,13903,0.0947,653.5,Merger/Acquisition,,Medium
+Amazon,Social Media,Germany,2024,12,Public,113641,26132,0.23,7143.0,Product Pivot,-8.58,High
+Meta,SaaS,USA,2022,11,Series D+,55748,10287,0.1845,444.9,Restructuring,,High
+Bolt,Gaming,USA,2023,2,Public,11023,110,0.01,5646.5,Cost Cutting,4.69,Low
+eBay,HealthTech,USA,2020,9,Series C,46030,1826,0.0397,114.3,Product Pivot,,Low
+Unity,E-Commerce,India,2023,2,Series D+,14269,2790,0.1956,865.3,Over-hiring Post-COVID,,High
+Zoom,Cybersecurity,Brazil,2022,3,Series B,112535,14869,0.1321,129.3,Over-hiring Post-COVID,,Medium
+Cisco,SaaS,USA,2024,7,Public,80282,3058,0.0381,8352.9,Product Pivot,-14.62,Low
+Cisco,FinTech,Germany,2024,3,Public,78882,5467,0.0693,1870.1,Restructuring,-1.82,Medium
+Bolt,Cybersecurity,USA,2022,9,Series D+,111439,1114,0.01,607.7,Cost Cutting,,Low
+Klarna,Gaming,USA,2024,6,Series A,145042,16379,0.1129,53.2,Over-hiring Post-COVID,,Medium
+Opendoor,EdTech,USA,2024,3,Series C,79212,23514,0.2969,340.2,Product Pivot,,High
+LinkedIn,Logistics,Australia,2024,9,Series D+,119143,21969,0.1844,857.7,IPO Preparation,,High
+Shopify,Logistics,UK,2024,1,Series D+,107917,31860,0.2952,494.0,Product Pivot,,High
+Twitter/X,Hardware,UK,2022,10,Public,138377,26373,0.1906,3818.4,Market Downturn,-5.28,High
+Better.com,Cybersecurity,USA,2023,3,Private Equity,128756,26034,0.2022,2247.0,Product Pivot,,High
+Bolt,AI/ML,USA,2020,1,Series C,101922,28326,0.2779,293.8,Restructuring,,High
+Netflix,EdTech,USA,2021,2,Public,89800,13486,0.1502,5750.7,Over-hiring Post-COVID,-5.03,High
+Uber,Logistics,Canada,2024,12,Series C,7130,748,0.105,286.2,Market Downturn,,Medium
+Klarna,EdTech,USA,2022,8,Public,124974,25321,0.2026,2633.8,Over-hiring Post-COVID,-6.62,High
+Oracle,E-Commerce,India,2023,7,Private Equity,99369,23481,0.2363,2060.3,Over-hiring Post-COVID,,High
+Opendoor,EdTech,USA,2024,2,Public,16201,1322,0.0816,6006.5,Restructuring,-5.17,Medium
+Stripe,Cloud Computing,USA,2024,2,Series C,146431,9118,0.0623,576.7,Product Pivot,,Medium
+eBay,Gaming,UK,2024,9,Public,97785,12820,0.1311,2968.8,Restructuring,-3.1,Medium
+Amazon,Logistics,USA,2022,6,Series C,118056,22019,0.1865,398.7,Product Pivot,,High
+Stripe,EdTech,USA,2020,5,Series B,15521,2853,0.1838,57.0,Market Downturn,,High
+Stripe,Cybersecurity,USA,2022,10,Series C,64861,648,0.01,318.9,Restructuring,,Low
+Oracle,Social Media,India,2021,6,Series C,132817,36249,0.2729,417.2,Restructuring,,High
+Meta,Cloud Computing,India,2020,9,Series A,10855,745,0.0687,6.8,IPO Preparation,,Medium
+PayPal,Cloud Computing,USA,2022,11,Public,99341,9814,0.0988,4590.1,Merger/Acquisition,-7.07,Medium
+PayPal,AI/ML,UK,2023,7,Public,17698,845,0.0478,3873.6,Cost Cutting,-5.3,Low
+Klarna,EdTech,USA,2023,10,Public,67451,22654,0.3359,3596.1,Restructuring,6.66,High
+Google,Hardware,USA,2022,10,Private Equity,133224,18566,0.1394,1731.1,Merger/Acquisition,,Medium
+Gorillas,AI/ML,USA,2023,9,Series D+,19240,998,0.0519,1158.6,Regulatory Pressure,,Medium
+Twilio,AI/ML,Netherlands,2022,4,Series B,4310,815,0.1891,113.6,Cost Cutting,,High
+Getir,Social Media,USA,2020,2,Series C,124243,22553,0.1815,324.7,IPO Preparation,,High
+Opendoor,E-Commerce,USA,2023,12,Public,148141,15552,0.105,5228.6,Product Pivot,-5.16,Medium
+Intel,EdTech,USA,2023,8,Public,100355,18791,0.1872,5003.6,Regulatory Pressure,-2.1,High
+Uber,FinTech,USA,2023,4,Public,27283,1472,0.054,2821.3,Product Pivot,-12.05,Medium
+Gorillas,Logistics,India,2020,9,Series D+,122201,9845,0.0806,1154.7,Product Pivot,,Medium
+Oracle,AI/ML,USA,2024,4,Public,78547,785,0.01,5590.4,Merger/Acquisition,-0.34,Low
+Snap,Gaming,USA,2023,8,Public,9971,140,0.0141,5789.8,Merger/Acquisition,-9.71,Low
+Intel,HealthTech,India,2023,9,Series A,111271,29443,0.2646,27.1,Cost Cutting,,High
+SAP,Gaming,USA,2023,9,Private Equity,6663,1674,0.2513,1224.5,Product Pivot,,High
+LinkedIn,Social Media,India,2024,10,Public,62571,7837,0.1253,4647.7,Over-hiring Post-COVID,-4.71,Medium
+Uber,Social Media,Germany,2023,4,Public,16565,4191,0.253,1931.8,Regulatory Pressure,9.4,High
+Lyft,Cybersecurity,USA,2023,1,Public,122823,13165,0.1072,1623.9,Restructuring,-0.78,Medium
+Peloton,E-Commerce,India,2024,3,Series C,118469,11909,0.1005,227.9,Merger/Acquisition,,Medium
+Zoom,Hardware,USA,2023,9,Series B,83956,10454,0.1245,145.1,Merger/Acquisition,,Medium
+Oracle,Logistics,UK,2022,4,Public,19654,2162,0.11,3693.7,Merger/Acquisition,-3.77,Medium
+Dropbox,SaaS,USA,2023,5,Public,106203,10916,0.1028,2962.4,Cost Cutting,-2.23,Medium
+Gorillas,AI/ML,USA,2022,7,Series B,20729,4383,0.2115,80.9,Product Pivot,,High
+SAP,Gaming,Germany,2022,5,Series C,53087,7008,0.132,245.4,Over-hiring Post-COVID,,Medium
+Salesforce,HealthTech,France,2023,4,Public,50213,8887,0.177,4292.3,Restructuring,-7.09,High
+Lyft,Social Media,Brazil,2024,2,Series C,21601,4374,0.2025,559.9,Restructuring,,High
+PayPal,Social Media,Germany,2024,2,Public,40891,6176,0.1511,7109.2,Product Pivot,-2.2,High
+Airbnb,E-Commerce,USA,2022,4,Series D+,73223,3103,0.0424,1127.9,Over-hiring Post-COVID,,Low
+PayPal,HealthTech,USA,2023,10,Series B,100764,1186,0.0118,176.1,Cost Cutting,,Low
+Intel,HealthTech,USA,2022,10,Series B,38421,5067,0.1319,72.1,Merger/Acquisition,,Medium
+IBM,E-Commerce,UK,2024,9,Series D+,28960,3078,0.1063,408.8,Merger/Acquisition,,Medium
+eBay,Social Media,USA,2024,8,Private Equity,92225,11711,0.127,835.9,Regulatory Pressure,,Medium
+eBay,Logistics,Netherlands,2023,3,Series D+,58945,6997,0.1187,1227.0,Regulatory Pressure,,Medium
+Wayfair,EdTech,USA,2024,9,Series B,82708,27019,0.3267,93.7,Regulatory Pressure,,High
+Snap,EdTech,USA,2023,5,Series D+,106783,1450,0.0136,399.6,IPO Preparation,,Low
+SAP,E-Commerce,USA,2023,11,Series A,86279,862,0.01,33.1,Product Pivot,,Low
+Spotify,HealthTech,France,2020,3,Series A,3560,521,0.1466,36.2,Restructuring,,Medium
+Oracle,AI/ML,India,2023,5,Public,126306,11353,0.0899,5536.8,Merger/Acquisition,8.7,Medium
+Dropbox,E-Commerce,Germany,2023,10,Private Equity,14231,2067,0.1453,1650.6,IPO Preparation,,Medium
+eBay,Logistics,USA,2023,4,Series B,78330,13058,0.1667,80.2,Restructuring,,High
+Zoom,E-Commerce,Australia,2022,8,Series B,116371,25919,0.2227,152.9,Restructuring,,High
+Shopify,Cloud Computing,USA,2024,12,Public,21219,212,0.01,3721.6,Product Pivot,-5.96,Low
+Spotify,Gaming,France,2022,5,Series B,49616,3744,0.0755,112.5,Market Downturn,,Medium
+HP,HealthTech,UK,2023,10,Series A,26825,4139,0.1543,51.0,Regulatory Pressure,,High
+IBM,Hardware,USA,2023,12,Public,15051,2733,0.1816,3716.4,IPO Preparation,1.03,High
+Spotify,Cybersecurity,UK,2023,8,Private Equity,93787,27711,0.2955,1158.4,Market Downturn,,High
+Stripe,Cybersecurity,India,2023,9,Public,24778,4867,0.1965,6183.3,Market Downturn,-2.19,High
+Lyft,HealthTech,USA,2022,4,Public,15641,1805,0.1155,3284.5,IPO Preparation,0.46,Medium
+Dropbox,Hardware,France,2022,7,Series D+,68413,3336,0.0488,676.9,Over-hiring Post-COVID,,Low
+Unity,SaaS,USA,2023,2,Series C,34115,2553,0.0749,366.7,Regulatory Pressure,,Medium
+Airbnb,Logistics,USA,2023,6,Series C,122558,8895,0.0726,546.5,Product Pivot,,Medium
+Peloton,Cloud Computing,USA,2022,8,Public,113184,19515,0.1724,6210.8,IPO Preparation,1.42,High
+Twilio,Cloud Computing,USA,2023,12,Private Equity,27952,3928,0.1406,1783.6,Restructuring,,Medium
+Klarna,Social Media,UK,2023,7,Public,50891,717,0.0141,6061.6,IPO Preparation,0.44,Low
+Airbnb,Gaming,USA,2023,7,Public,120788,10282,0.0851,2853.6,Merger/Acquisition,-1.2,Medium
+Oracle,EdTech,India,2024,8,Public,114035,21689,0.1902,5231.2,IPO Preparation,6.59,High
+HP,FinTech,USA,2022,7,Series C,143270,21223,0.1481,296.4,Over-hiring Post-COVID,,Medium
+Peloton,Logistics,Brazil,2020,5,Private Equity,87211,14432,0.1655,1693.0,Regulatory Pressure,,High
+LinkedIn,FinTech,Germany,2023,7,Series C,78350,11802,0.1506,314.0,Regulatory Pressure,,High
+Klarna,FinTech,Australia,2023,10,Series B,110233,27570,0.2501,138.2,Market Downturn,,High
+Opendoor,HealthTech,USA,2023,3,Public,2865,397,0.1389,4377.1,Cost Cutting,-9.5,Medium
+Google,Cybersecurity,USA,2024,5,Series D+,98162,8748,0.0891,818.8,Regulatory Pressure,,Medium
+Gorillas,Cybersecurity,USA,2024,7,Series D+,43872,2050,0.0467,407.1,Regulatory Pressure,,Low
+eBay,EdTech,Germany,2024,9,Series D+,44634,6247,0.14,697.6,Over-hiring Post-COVID,,Medium
+Dropbox,HealthTech,France,2023,2,Public,38323,383,0.01,7781.7,Over-hiring Post-COVID,-18.47,Low
+IBM,FinTech,USA,2023,4,Series C,71658,7542,0.1053,338.3,Product Pivot,,Medium
+Microsoft,Hardware,USA,2022,12,Series D+,96576,9998,0.1035,793.3,Merger/Acquisition,,Medium
+Unity,SaaS,France,2022,7,Series B,133521,1447,0.0108,211.0,Over-hiring Post-COVID,,Low
+Shopify,AI/ML,USA,2023,1,Series D+,49896,2282,0.0457,364.5,IPO Preparation,,Low
+PayPal,Cybersecurity,India,2022,2,Public,108836,20109,0.1848,2781.1,Merger/Acquisition,-7.67,High
+Dell,Logistics,UK,2024,9,Series C,32412,4487,0.1385,505.5,Product Pivot,,Medium
+Airbnb,Hardware,France,2023,10,Public,57447,7361,0.1281,5091.9,IPO Preparation,-3.41,Medium
+Better.com,Logistics,USA,2023,7,Series A,44887,6486,0.1445,36.1,Regulatory Pressure,,Medium
+SAP,Social Media,USA,2022,12,Series C,17008,2166,0.1274,156.1,Cost Cutting,,Medium
+Amazon,E-Commerce,Germany,2020,10,Public,46092,10113,0.2194,5895.4,Restructuring,-8.45,High
+Klarna,AI/ML,Singapore,2020,7,Private Equity,109749,14253,0.1299,1826.7,Restructuring,,Medium
+Opendoor,Cybersecurity,USA,2022,6,Series D+,2419,24,0.01,449.8,Market Downturn,,Low
+Twilio,Cloud Computing,USA,2021,3,Public,43095,10791,0.2504,4719.4,Regulatory Pressure,-3.11,High
+Dell,Cybersecurity,Germany,2023,10,Series C,141189,21125,0.1496,259.7,Market Downturn,,Medium
+Dell,Hardware,Singapore,2024,3,Public,33798,2462,0.0729,5512.0,Cost Cutting,-1.57,Medium
+Airbnb,Social Media,France,2024,2,Series B,138501,2732,0.0197,66.3,Restructuring,,Low
+Wayfair,Logistics,Brazil,2023,11,Series B,14956,2268,0.1517,180.1,Market Downturn,,High
+Wayfair,FinTech,USA,2022,6,Private Equity,110099,12179,0.1106,2049.5,Regulatory Pressure,,Medium
+Klarna,Cloud Computing,USA,2024,4,Series D+,87176,21439,0.2459,683.8,Merger/Acquisition,,High
+Unity,HealthTech,Germany,2024,5,Series D+,84221,7775,0.0923,730.7,Over-hiring Post-COVID,,Medium
+Unity,Gaming,Australia,2022,3,Series B,38424,2036,0.053,113.5,Product Pivot,,Medium
+SAP,FinTech,USA,2023,6,Public,24740,4741,0.1917,3443.4,IPO Preparation,-10.38,High
+Snap,Gaming,USA,2022,11,Series D+,87881,17050,0.194,658.1,Market Downturn,,High
+Twilio,AI/ML,Australia,2024,12,Series D+,9728,1298,0.1335,713.5,Cost Cutting,,Medium
+PayPal,SaaS,USA,2024,3,Public,22186,3862,0.1741,8225.7,IPO Preparation,-1.72,High
+Netflix,E-Commerce,USA,2020,8,Series D+,12420,1452,0.117,1102.9,Restructuring,,Medium
+Twitter/X,SaaS,UK,2024,9,Series A,7932,1100,0.1387,55.0,Regulatory Pressure,,Medium
+Meta,Cloud Computing,Germany,2023,4,Series A,111007,23666,0.2132,45.9,Cost Cutting,,High
+Twilio,EdTech,Canada,2024,9,Public,131009,22274,0.17,2765.3,Product Pivot,-16.12,High
+Google,Cloud Computing,USA,2023,12,Public,72225,7688,0.1065,4917.0,Product Pivot,-5.0,Medium
+HP,SaaS,Germany,2024,7,Public,122264,27899,0.2282,6941.0,Cost Cutting,-0.29,High
+Twilio,Cybersecurity,Germany,2020,3,Series A,59599,595,0.01,19.9,Market Downturn,,Low
+Microsoft,Hardware,UK,2022,7,Public,113057,32126,0.2842,6273.1,Market Downturn,-3.11,High
+Airbnb,Logistics,India,2020,1,Series C,87260,872,0.01,578.7,Restructuring,,Low
+Gorillas,Cybersecurity,USA,2024,3,Public,18513,1292,0.0698,7123.6,Merger/Acquisition,9.23,Medium
+PayPal,Cybersecurity,USA,2024,6,Series C,21946,2561,0.1167,469.7,Restructuring,,Medium
+Meta,Hardware,USA,2024,4,Series D+,105709,11446,0.1083,869.9,Over-hiring Post-COVID,,Medium
+IBM,Hardware,USA,2024,7,Series B,102761,20604,0.2005,166.5,Merger/Acquisition,,High
+Stripe,AI/ML,UK,2021,3,Public,96239,3404,0.0354,3564.3,Regulatory Pressure,-5.53,Low
+IBM,FinTech,France,2022,1,Series C,1057,148,0.1409,395.5,IPO Preparation,,Medium
+LinkedIn,EdTech,India,2020,9,Public,131378,9688,0.0737,6308.8,Regulatory Pressure,-1.24,Medium
+Microsoft,EdTech,Australia,2022,6,Series C,99643,14309,0.1436,334.8,Over-hiring Post-COVID,,Medium
+Intel,Cybersecurity,USA,2022,8,Series A,25078,2879,0.1148,61.1,Restructuring,,Medium
+Gorillas,Gaming,USA,2023,3,Public,75279,9593,0.1274,3922.4,Merger/Acquisition,0.69,Medium
+Gorillas,AI/ML,USA,2022,8,Series A,141168,10729,0.076,37.0,Merger/Acquisition,,Medium
+Salesforce,Cybersecurity,USA,2021,2,Series C,58000,4593,0.0792,311.5,Over-hiring Post-COVID,,Medium
+LinkedIn,E-Commerce,USA,2022,12,Public,73034,10442,0.143,2940.8,Regulatory Pressure,2.37,Medium
+Cisco,Logistics,Germany,2021,4,Series D+,10629,2077,0.1955,872.6,Cost Cutting,,High
+Dell,Hardware,Brazil,2024,3,Public,12096,872,0.0721,1562.1,Market Downturn,-5.14,Medium
+Opendoor,FinTech,USA,2023,10,Series C,65855,3325,0.0505,425.6,Merger/Acquisition,,Medium
+PayPal,HealthTech,USA,2024,1,Series B,13474,2278,0.1691,122.2,IPO Preparation,,High
+Spotify,Hardware,Canada,2022,7,Public,112504,13207,0.1174,3958.2,IPO Preparation,-2.6,Medium
+Microsoft,E-Commerce,USA,2022,11,Series D+,127294,23732,0.1864,533.0,Merger/Acquisition,,High
+Lyft,Gaming,Australia,2023,10,Series B,70702,3360,0.0475,108.7,Over-hiring Post-COVID,,Low
+Netflix,Cloud Computing,India,2022,2,Private Equity,74942,749,0.01,1913.0,Merger/Acquisition,,Low
+Unity,Cloud Computing,Singapore,2022,4,Series D+,56098,4339,0.0774,975.3,Regulatory Pressure,,Medium
+Snap,SaaS,USA,2022,9,Private Equity,134226,7877,0.0587,1076.7,Over-hiring Post-COVID,,Medium
+Opendoor,E-Commerce,India,2021,6,Series D+,34258,3895,0.1137,529.3,Cost Cutting,,Medium
+eBay,SaaS,UK,2022,8,Series D+,24704,1705,0.0691,1010.2,IPO Preparation,,Medium
+Google,Cybersecurity,India,2022,2,Series B,127809,22913,0.1793,85.3,Merger/Acquisition,,High
+Salesforce,HealthTech,USA,2023,7,Series D+,31052,3010,0.0969,819.2,Product Pivot,,Medium
+Twitter/X,Social Media,USA,2020,6,Series D+,141908,18737,0.132,839.6,Restructuring,,Medium
+Twitter/X,Hardware,UK,2022,9,Series D+,47537,6303,0.1326,899.9,IPO Preparation,,Medium
+Dropbox,Social Media,UK,2024,7,Series B,147778,20038,0.1356,161.2,Cost Cutting,,Medium
+Stripe,Gaming,Australia,2021,1,Series B,35331,4171,0.1181,59.4,Product Pivot,,Medium
+Klarna,Cybersecurity,Canada,2022,8,Series D+,44063,7087,0.1608,188.4,IPO Preparation,,High
+Netflix,EdTech,India,2024,11,Public,18861,1062,0.0563,3865.1,Cost Cutting,-6.48,Medium
+Klarna,Hardware,USA,2022,10,Series D+,41835,9703,0.232,1376.5,Market Downturn,,High
+Airbnb,SaaS,Canada,2021,3,Series C,74969,7577,0.1011,542.7,Cost Cutting,,Medium
+Oracle,EdTech,UK,2023,2,Public,26316,396,0.0151,8662.4,Cost Cutting,2.29,Low
+LinkedIn,FinTech,Netherlands,2022,12,Series B,147191,19877,0.135,110.7,Market Downturn,,Medium
+Google,HealthTech,Netherlands,2023,3,Series D+,92979,4826,0.0519,229.7,Merger/Acquisition,,Medium
+Wayfair,HealthTech,USA,2024,11,Public,27319,4732,0.1732,313.9,Restructuring,-9.14,High
+Klarna,Cloud Computing,Australia,2021,6,Public,143313,42530,0.2968,3771.9,Regulatory Pressure,8.74,High
+Getir,AI/ML,USA,2023,3,Public,122830,7010,0.0571,4603.9,Product Pivot,-10.52,Medium
+Dell,Hardware,USA,2023,10,Private Equity,9298,1362,0.1466,2280.4,IPO Preparation,,Medium
+PayPal,SaaS,UK,2021,5,Public,50195,501,0.01,6735.6,Regulatory Pressure,-1.34,Low
+Stripe,Gaming,USA,2023,6,Public,130044,20327,0.1563,5454.8,Over-hiring Post-COVID,-9.37,High
+Microsoft,Social Media,Canada,2022,8,Series D+,9915,487,0.0491,515.2,Restructuring,,Low
+HP,Gaming,USA,2023,7,Public,142657,9987,0.07,3078.4,Regulatory Pressure,-3.89,Medium
+Gorillas,EdTech,USA,2021,11,Public,146580,4675,0.0319,5508.3,IPO Preparation,3.03,Low
+Opendoor,EdTech,Germany,2023,8,Public,88138,15738,0.1786,6394.1,Cost Cutting,-7.07,High
+Cisco,E-Commerce,Canada,2022,3,Series D+,18952,3801,0.2006,925.4,Regulatory Pressure,,High
+Google,FinTech,Netherlands,2024,4,Series C,139692,17024,0.1219,175.8,Over-hiring Post-COVID,,Medium
+Coinbase,Hardware,India,2020,6,Series D+,110705,5628,0.0508,1008.2,Market Downturn,,Medium
+Unity,HealthTech,India,2022,11,Series D+,18670,4614,0.2472,936.3,Regulatory Pressure,,High
+Stripe,Logistics,USA,2023,7,Private Equity,16759,1004,0.06,857.6,Restructuring,,Medium
+Google,SaaS,USA,2023,9,Series D+,22599,225,0.01,549.0,Merger/Acquisition,,Low
+PayPal,Gaming,USA,2023,1,Public,141221,22125,0.1567,6377.0,Product Pivot,-3.99,High
+Opendoor,SaaS,UK,2023,8,Public,129894,4106,0.0316,4531.0,Restructuring,0.55,Low
+Intel,EdTech,India,2023,8,Series D+,59758,11897,0.1991,1308.5,Restructuring,,High
+Stripe,AI/ML,USA,2024,6,Series B,12305,1101,0.0895,144.1,Merger/Acquisition,,Medium
+IBM,Cloud Computing,Canada,2022,4,Public,43647,7345,0.1683,4026.7,Over-hiring Post-COVID,-0.22,High
+PayPal,Social Media,UK,2023,3,Series C,74780,17357,0.2321,298.8,Market Downturn,,High
+Twitter/X,FinTech,USA,2024,11,Public,107277,2498,0.0233,5126.8,Merger/Acquisition,1.59,Low
+Cisco,AI/ML,USA,2024,3,Series D+,98341,7348,0.0747,566.9,IPO Preparation,,Medium
+Opendoor,FinTech,France,2024,6,Series B,125226,14269,0.1139,76.2,Market Downturn,,Medium
+LinkedIn,E-Commerce,Canada,2022,8,Public,128859,31313,0.243,6402.8,Merger/Acquisition,2.05,High
+IBM,Logistics,Netherlands,2022,7,Series C,76715,5165,0.0673,401.4,Restructuring,,Medium
+Getir,EdTech,USA,2023,11,Public,113409,8215,0.0724,6207.6,Market Downturn,-6.8,Medium
+Lyft,Cloud Computing,Brazil,2023,1,Series B,95865,15170,0.1583,192.7,Over-hiring Post-COVID,,High
+Twitter/X,Hardware,USA,2023,11,Public,11485,847,0.0738,3916.5,Over-hiring Post-COVID,-2.3,Medium
+eBay,AI/ML,USA,2023,6,Series A,12891,1704,0.1322,66.8,Product Pivot,,Medium
+Airbnb,FinTech,Brazil,2024,7,Public,5361,53,0.01,3198.2,Market Downturn,4.47,Low
+Salesforce,HealthTech,USA,2022,12,Series A,34864,10359,0.2971,23.8,Product Pivot,,High
+Gorillas,E-Commerce,India,2024,7,Series D+,82899,1009,0.0122,236.8,IPO Preparation,,Low
+Dell,HealthTech,USA,2022,9,Series C,43423,4093,0.0943,246.5,Merger/Acquisition,,Medium
+Coinbase,Cloud Computing,Germany,2022,11,Public,139491,16376,0.1174,3992.6,Cost Cutting,-10.13,Medium
+Twitter/X,Hardware,Netherlands,2023,11,Series A,86318,23566,0.273,48.4,IPO Preparation,,High
+Dell,Hardware,USA,2023,10,Public,71660,1004,0.014,5487.8,Over-hiring Post-COVID,-2.4,Low
+Oracle,AI/ML,India,2021,5,Public,128665,35858,0.2787,2614.1,Restructuring,-0.13,High
+Wayfair,SaaS,USA,2022,1,Series D+,139748,25234,0.1806,674.3,Regulatory Pressure,,High
+Unity,E-Commerce,Germany,2024,2,Public,34029,5218,0.1534,4257.1,Over-hiring Post-COVID,-1.77,High
+Google,Hardware,USA,2022,4,Public,144513,5958,0.0412,1448.0,Cost Cutting,-5.19,Low
+Opendoor,Hardware,USA,2023,5,Private Equity,2169,359,0.1657,911.4,Restructuring,,High
+Robinhood,AI/ML,USA,2023,9,Private Equity,117873,7322,0.0621,1037.5,Market Downturn,,Medium
+Dell,EdTech,USA,2023,11,Series D+,45359,10039,0.2213,1258.8,Regulatory Pressure,,High
+Better.com,Cybersecurity,Netherlands,2023,1,Series A,56286,2381,0.0423,43.1,Market Downturn,,Low
+Salesforce,E-Commerce,USA,2022,3,Series D+,20823,2310,0.1109,1011.9,IPO Preparation,,Medium
+LinkedIn,HealthTech,USA,2023,5,Public,6521,492,0.0756,2002.7,Regulatory Pressure,-11.02,Medium
+Uber,Cloud Computing,USA,2022,3,Series C,40307,1652,0.041,443.3,Over-hiring Post-COVID,,Low
+SAP,Hardware,USA,2023,4,Series C,128805,23095,0.1793,456.1,Restructuring,,High
+Coinbase,Hardware,Canada,2021,3,Private Equity,50855,8281,0.1628,301.0,Merger/Acquisition,,High
+Better.com,Logistics,Brazil,2023,4,Public,113915,24687,0.2167,3589.4,Regulatory Pressure,-1.3,High
+Dell,EdTech,USA,2022,1,Series C,9211,92,0.01,359.5,Restructuring,,Low
+PayPal,Hardware,France,2022,12,Public,8404,1723,0.2051,6288.8,Product Pivot,0.13,High
+Bolt,Cybersecurity,Germany,2022,8,Public,64533,20678,0.3204,3643.0,Cost Cutting,2.79,High
+Robinhood,Logistics,USA,2022,4,Public,86978,7294,0.0839,4389.0,IPO Preparation,-3.03,Medium
+Getir,Social Media,India,2024,7,Private Equity,120535,32738,0.2716,1141.6,Market Downturn,,High
+Spotify,EdTech,UK,2022,2,Series B,3593,355,0.0989,125.3,Over-hiring Post-COVID,,Medium
+Twitter/X,Cloud Computing,India,2024,2,Series B,25418,259,0.0102,177.5,Restructuring,,Low
+Peloton,FinTech,Netherlands,2024,6,Series D+,140966,13469,0.0955,553.3,Market Downturn,,Medium
+Dropbox,E-Commerce,USA,2023,2,Public,125001,25482,0.2039,7001.6,Over-hiring Post-COVID,0.45,High
+Snap,AI/ML,Netherlands,2021,6,Public,93010,4924,0.0529,3436.7,Regulatory Pressure,-0.9,Medium
+Wayfair,Cloud Computing,Canada,2022,11,Public,94208,6780,0.072,3304.7,Market Downturn,2.68,Medium
+Twilio,E-Commerce,UK,2023,2,Series D+,98319,16466,0.1675,1062.0,Over-hiring Post-COVID,,High
+Peloton,Logistics,Germany,2022,4,Series B,144852,17417,0.1202,164.3,Market Downturn,,Medium
+Airbnb,SaaS,USA,2021,7,Series D+,36803,6137,0.1668,1072.5,Merger/Acquisition,,High
+Bolt,AI/ML,Brazil,2023,8,Public,27953,3886,0.139,2368.4,Product Pivot,-3.54,Medium
+Amazon,Gaming,India,2024,3,Public,109386,17323,0.1584,4068.1,Cost Cutting,-5.06,High
+HP,HealthTech,USA,2023,9,Public,61195,5227,0.0854,6646.0,Market Downturn,-0.19,Medium
+Dell,Social Media,USA,2022,2,Series D+,133912,18551,0.1385,813.3,Cost Cutting,,Medium
+Unity,EdTech,Germany,2023,8,Private Equity,38557,1766,0.0458,855.8,Market Downturn,,Low
+Intel,Hardware,USA,2022,8,Series C,132169,29483,0.2231,355.0,IPO Preparation,,High
+Amazon,SaaS,USA,2022,4,Series B,95155,6590,0.0693,85.7,Restructuring,,Medium
+Wayfair,SaaS,UK,2024,1,Series D+,15525,3265,0.2103,1374.2,Product Pivot,,High
+Dell,Cloud Computing,USA,2022,1,Series D+,7645,774,0.1013,1294.3,IPO Preparation,,Medium
+Robinhood,Social Media,USA,2022,2,Public,101706,13848,0.1362,6208.2,Merger/Acquisition,-8.09,Medium
+Oracle,FinTech,USA,2020,12,Series A,42223,3394,0.0804,61.8,Product Pivot,,Medium
+Peloton,E-Commerce,USA,2024,9,Series B,73730,2854,0.0387,123.1,Cost Cutting,,Low
+Opendoor,E-Commerce,India,2023,2,Public,136402,1364,0.01,6530.9,Restructuring,-1.18,Low
+LinkedIn,Cloud Computing,UK,2023,2,Series D+,108638,3864,0.0356,1272.9,Over-hiring Post-COVID,,Low
+Klarna,Cybersecurity,USA,2023,6,Series D+,62540,5884,0.0941,878.6,IPO Preparation,,Medium
+Salesforce,Cybersecurity,USA,2022,7,Series C,109168,14950,0.137,269.4,Product Pivot,,Medium
+Uber,Hardware,Germany,2023,7,Private Equity,55530,11152,0.2008,477.2,Merger/Acquisition,,High
+Twilio,Gaming,USA,2022,9,Series C,57315,4833,0.0843,290.0,IPO Preparation,,Medium
+Spotify,HealthTech,USA,2021,6,Series D+,113289,5601,0.0494,1063.5,Restructuring,,Low
+Snap,AI/ML,USA,2023,8,Public,58423,584,0.01,6891.3,Restructuring,0.32,Low
+Wayfair,FinTech,Australia,2024,11,Public,68404,10835,0.1584,6008.7,Cost Cutting,-5.78,High
+Opendoor,Hardware,Canada,2020,6,Public,77588,17896,0.2307,3917.4,Merger/Acquisition,-0.99,High
+Coinbase,Social Media,Canada,2022,2,Public,6108,1351,0.2213,1046.4,Restructuring,-5.14,High
+IBM,Cybersecurity,Canada,2022,1,Series B,46167,8162,0.1768,96.2,Regulatory Pressure,,High
+Twilio,Gaming,India,2022,5,Series C,56047,9588,0.1711,263.5,Restructuring,,High
+Gorillas,Gaming,UK,2024,9,Public,141434,36180,0.2558,4374.1,Over-hiring Post-COVID,-1.09,High
+Unity,Cloud Computing,India,2023,8,Series B,128891,18891,0.1466,149.7,Cost Cutting,,Medium
+Shopify,FinTech,USA,2023,4,Public,76448,13125,0.1717,8971.4,Cost Cutting,-7.61,High
+Microsoft,Logistics,Germany,2023,5,Public,72380,6828,0.0943,5247.1,Merger/Acquisition,1.23,Medium
+Netflix,AI/ML,Canada,2022,5,Public,58060,640,0.011,4566.5,Restructuring,-3.9,Low
+Wayfair,HealthTech,UK,2023,6,Series D+,115563,7545,0.0653,717.0,Over-hiring Post-COVID,,Medium
+Bolt,EdTech,USA,2022,3,Public,94718,11296,0.1193,5248.8,Market Downturn,-5.03,Medium
+Microsoft,Cloud Computing,USA,2023,5,Series D+,114962,14354,0.1249,534.9,Product Pivot,,Medium
+Robinhood,AI/ML,India,2024,2,Series D+,18497,5070,0.2741,838.5,Regulatory Pressure,,High
+Oracle,EdTech,India,2023,10,Private Equity,121766,15403,0.1265,1770.5,IPO Preparation,,Medium
+Intel,EdTech,France,2022,1,Public,4179,895,0.2143,5419.4,Cost Cutting,0.43,High
+Shopify,FinTech,USA,2024,11,Public,40808,3476,0.0852,5915.1,Over-hiring Post-COVID,2.36,Medium
+Oracle,FinTech,Canada,2022,1,Public,6195,588,0.0951,5867.5,Merger/Acquisition,-6.12,Medium
+Snap,Hardware,Germany,2020,10,Series C,58999,807,0.0137,87.4,Over-hiring Post-COVID,,Low
+Meta,Social Media,Netherlands,2022,7,Public,23882,1447,0.0606,6273.7,Restructuring,-1.93,Medium
+Shopify,Gaming,UK,2022,2,Series B,14735,2389,0.1622,87.8,Regulatory Pressure,,High
+eBay,AI/ML,UK,2023,4,Series D+,133938,16153,0.1206,449.3,Product Pivot,,Medium
+Airbnb,Cloud Computing,Germany,2023,5,Series D+,112968,22077,0.1954,446.6,Cost Cutting,,High
+HP,Hardware,Canada,2024,7,Series C,7264,977,0.1345,352.0,Market Downturn,,Medium
+Unity,E-Commerce,Brazil,2023,2,Public,114331,10496,0.0918,4554.9,Restructuring,-3.71,Medium
+Intel,Cloud Computing,USA,2023,6,Public,62336,18193,0.2919,1636.1,Cost Cutting,-3.13,High
+Bolt,Social Media,USA,2020,1,Public,32423,3647,0.1125,5956.1,IPO Preparation,-8.06,Medium
+Klarna,HealthTech,Singapore,2020,7,Series C,96211,20496,0.213,127.2,Merger/Acquisition,,High
+Intel,SaaS,UK,2023,9,Public,16792,1476,0.0879,5279.6,Cost Cutting,-9.28,Medium
+Spotify,SaaS,Germany,2022,5,Public,125413,22168,0.1768,5477.0,Over-hiring Post-COVID,-9.04,High
+Unity,Gaming,UK,2024,5,Private Equity,133186,25870,0.1942,2031.3,IPO Preparation,,High
+Cisco,SaaS,USA,2022,4,Public,21439,2930,0.1367,8563.4,Product Pivot,4.51,Medium
+Better.com,SaaS,Canada,2020,3,Series B,19300,193,0.01,54.5,Regulatory Pressure,,Low
+Salesforce,E-Commerce,Canada,2022,9,Series B,56940,6915,0.1215,117.5,Market Downturn,,Medium
+IBM,Cybersecurity,USA,2022,5,Public,128021,27964,0.2184,4447.3,Product Pivot,1.87,High
+Wayfair,HealthTech,USA,2020,8,Public,121827,19760,0.1622,5867.5,Over-hiring Post-COVID,0.57,High
+Cisco,FinTech,France,2023,9,Public,50148,7806,0.1557,5431.3,Market Downturn,-5.06,High
+Dropbox,EdTech,USA,2021,5,Series C,115692,1156,0.01,257.7,Market Downturn,,Low
+eBay,Cybersecurity,Netherlands,2023,10,Series C,93998,5862,0.0624,247.1,Regulatory Pressure,,Medium
+Opendoor,Cloud Computing,USA,2022,9,Series B,30264,4627,0.1529,66.4,Restructuring,,High
+Opendoor,Cloud Computing,Germany,2022,2,Private Equity,32970,5038,0.1528,2092.7,Market Downturn,,High
+Unity,SaaS,Singapore,2022,9,Series C,57707,12532,0.2172,355.1,Cost Cutting,,High
+Microsoft,FinTech,India,2024,11,Public,62657,6792,0.1084,6835.5,Product Pivot,0.0,Medium
+Oracle,Social Media,USA,2022,4,Public,134788,20550,0.1525,4379.2,Merger/Acquisition,-8.25,High
+Klarna,AI/ML,India,2023,6,Series B,94278,11436,0.1213,88.5,Merger/Acquisition,,Medium
+Dell,Cybersecurity,USA,2021,6,Public,130516,5356,0.041,2843.4,Product Pivot,0.04,Low
+IBM,Cybersecurity,USA,2023,6,Public,124788,1247,0.01,5717.8,Restructuring,-6.8,Low
+Unity,Logistics,Brazil,2022,2,Series C,111073,17158,0.1545,175.2,Market Downturn,,High
+Unity,HealthTech,Canada,2023,7,Series D+,121230,16234,0.1339,1391.6,Over-hiring Post-COVID,,Medium
+Cisco,Gaming,India,2023,6,Series A,149433,10541,0.0705,19.1,IPO Preparation,,Medium
+Wayfair,HealthTech,USA,2024,11,Series C,64686,646,0.01,332.8,IPO Preparation,,Low
+Amazon,AI/ML,USA,2022,1,Public,5460,930,0.1704,8133.7,Cost Cutting,-3.22,High
+HP,Cloud Computing,USA,2020,2,Private Equity,19281,1903,0.0987,1859.5,Restructuring,,Medium
+Netflix,Cloud Computing,Germany,2020,7,Public,31626,5204,0.1645,5351.3,IPO Preparation,-0.19,High
+Shopify,Cloud Computing,Canada,2024,1,Public,106534,28670,0.2691,3063.0,Regulatory Pressure,-6.95,High
+Cisco,Logistics,UK,2023,1,Series D+,18383,183,0.01,357.8,Regulatory Pressure,,Low
+Robinhood,Cloud Computing,France,2023,1,Public,30282,1939,0.064,6540.1,Market Downturn,-3.88,Medium
+Google,AI/ML,USA,2022,8,Series D+,56887,5873,0.1032,1282.0,Merger/Acquisition,,Medium
+Oracle,Hardware,USA,2022,4,Public,148551,35115,0.2364,4122.3,Over-hiring Post-COVID,9.12,High
+Coinbase,FinTech,USA,2020,4,Series D+,34246,342,0.01,435.5,Market Downturn,,Low
+Unity,Gaming,USA,2024,2,Series D+,66766,18351,0.2749,13.4,Restructuring,,High
+Zoom,AI/ML,USA,2023,11,Series B,556,72,0.1309,72.9,Regulatory Pressure,,Medium
+SAP,SaaS,Singapore,2024,11,Series B,31957,3589,0.1123,114.5,Over-hiring Post-COVID,,Medium
+Gorillas,Hardware,USA,2022,11,Public,133815,13937,0.1042,8198.2,IPO Preparation,-5.15,Medium
+Netflix,Gaming,Singapore,2023,1,Series D+,133273,11341,0.0851,1015.4,Over-hiring Post-COVID,,Medium
+Salesforce,AI/ML,USA,2023,12,Series D+,74339,15153,0.2038,897.6,Over-hiring Post-COVID,,High
+Uber,Hardware,Brazil,2022,10,Public,81136,2800,0.0345,4199.8,Over-hiring Post-COVID,-11.1,Low
+Twitter/X,Cloud Computing,Germany,2024,9,Series B,108197,15973,0.1476,92.0,Regulatory Pressure,,Medium
+Google,FinTech,Singapore,2024,7,Series C,66983,5979,0.0893,468.7,IPO Preparation,,Medium
+Meta,Cybersecurity,USA,2024,4,Public,21005,1239,0.059,5401.5,Market Downturn,-1.99,Medium
+Getir,HealthTech,Canada,2023,12,Series D+,138125,45150,0.3269,127.2,Over-hiring Post-COVID,,High
+IBM,EdTech,Netherlands,2022,6,Public,34025,5223,0.1535,3652.9,Market Downturn,-10.47,High
+Opendoor,FinTech,USA,2022,2,Series C,96508,16315,0.1691,197.0,Over-hiring Post-COVID,,High
+Klarna,Cybersecurity,USA,2024,7,Public,44848,9463,0.211,3907.5,Regulatory Pressure,6.11,High
+PayPal,Social Media,USA,2020,2,Private Equity,7773,77,0.01,1837.7,Over-hiring Post-COVID,,Low
+LinkedIn,AI/ML,Singapore,2023,10,Series B,64736,16843,0.2602,114.8,Restructuring,,High
+Intel,Social Media,UK,2023,8,Series D+,135107,1351,0.01,775.4,Market Downturn,,Low
+Airbnb,Cybersecurity,UK,2023,8,Series C,107657,6297,0.0585,457.6,Merger/Acquisition,,Medium
+IBM,FinTech,USA,2024,1,Series A,1408,117,0.0833,28.9,Regulatory Pressure,,Medium
+SAP,AI/ML,USA,2022,8,Series C,108852,18127,0.1665,523.7,Market Downturn,,High
+Robinhood,SaaS,Australia,2022,2,Public,96467,13263,0.1375,3657.4,Regulatory Pressure,-2.2,Medium
+Lyft,EdTech,USA,2020,6,Series D+,89489,9544,0.1067,828.5,Product Pivot,,Medium
+PayPal,Cloud Computing,India,2022,1,Series B,35579,4235,0.119,106.5,IPO Preparation,,Medium
+Oracle,AI/ML,Netherlands,2022,5,Series C,112389,4693,0.0418,314.8,Merger/Acquisition,,Low
+Unity,SaaS,USA,2022,11,Series C,49823,498,0.01,353.4,Restructuring,,Low
+Lyft,AI/ML,India,2024,7,Series A,90409,16103,0.1781,46.9,Market Downturn,,High
+IBM,FinTech,USA,2024,10,Series A,46605,8179,0.1755,28.0,Restructuring,,High
+Robinhood,SaaS,Germany,2022,1,Series A,133457,32931,0.2468,22.0,Merger/Acquisition,,High
+Spotify,FinTech,USA,2022,2,Public,1549,87,0.0568,10006.3,Restructuring,-1.85,Medium
+Google,Hardware,Canada,2024,7,Series D+,53781,9434,0.1754,645.1,Restructuring,,High
+Unity,Cybersecurity,USA,2020,6,Series B,43771,4259,0.0973,153.6,Cost Cutting,,Medium
+LinkedIn,E-Commerce,UK,2021,3,Series B,67197,14463,0.2152,42.8,Market Downturn,,High
+Google,AI/ML,Germany,2022,10,Series C,37034,7471,0.2018,266.4,Restructuring,,High
+Netflix,HealthTech,USA,2023,2,Public,93534,12804,0.1369,4745.6,Cost Cutting,0.29,Medium
+IBM,AI/ML,Canada,2022,10,Series B,58597,5440,0.0928,142.7,Cost Cutting,,Medium
+PayPal,Cybersecurity,USA,2024,4,Series C,25537,5027,0.1969,26.7,Regulatory Pressure,,High
+Twilio,Gaming,India,2022,3,Public,27778,4770,0.1718,5332.3,Over-hiring Post-COVID,2.99,High
+HP,Social Media,USA,2023,7,Series D+,139844,9124,0.0652,432.1,Over-hiring Post-COVID,,Medium
+Spotify,Hardware,India,2022,8,Public,99673,1373,0.0138,5648.7,IPO Preparation,-10.43,Low
+Oracle,Cloud Computing,USA,2023,2,Public,38794,3759,0.0969,2927.3,Merger/Acquisition,-3.53,Medium
+Netflix,SaaS,USA,2023,10,Public,73777,17797,0.2412,3289.0,Market Downturn,-14.31,High
+Bolt,E-Commerce,USA,2023,7,Series D+,5194,1099,0.2117,712.4,Over-hiring Post-COVID,,High
+Stripe,EdTech,Canada,2023,8,Series D+,58650,1818,0.031,463.3,Merger/Acquisition,,Low
+Getir,EdTech,USA,2023,6,Series C,67970,1806,0.0266,242.9,Market Downturn,,Low
+Shopify,EdTech,Netherlands,2024,6,Series C,22056,4895,0.222,156.8,Merger/Acquisition,,High
+Amazon,FinTech,Netherlands,2024,10,Series B,49586,1445,0.0291,32.0,IPO Preparation,,Low
+LinkedIn,EdTech,USA,2023,1,Public,99968,16069,0.1607,7035.9,IPO Preparation,-3.24,High
+Lyft,Cloud Computing,Germany,2020,4,Public,33887,2396,0.0707,2407.9,Cost Cutting,-2.86,Medium
+Cisco,Hardware,USA,2020,1,Series A,69102,17231,0.2494,37.1,Cost Cutting,,High
+Dell,Social Media,USA,2022,4,Public,137166,8005,0.0584,6505.8,Market Downturn,-4.36,Medium
+Oracle,EdTech,Canada,2023,2,Private Equity,2960,625,0.2115,1131.0,Merger/Acquisition,,High
+Lyft,AI/ML,India,2022,11,Series B,72856,9820,0.1348,80.4,Merger/Acquisition,,Medium
+Zoom,AI/ML,Germany,2022,5,Series D+,55198,7737,0.1402,872.4,Over-hiring Post-COVID,,Medium
+Airbnb,FinTech,USA,2024,10,Private Equity,102246,1022,0.01,2170.8,Over-hiring Post-COVID,,Low
+Twilio,Cloud Computing,USA,2024,9,Public,16691,166,0.01,2661.4,Market Downturn,-10.29,Low
+Airbnb,Social Media,USA,2024,11,Public,85131,8713,0.1024,4699.7,Product Pivot,-3.96,Medium
+Peloton,E-Commerce,Canada,2022,12,Series C,11029,1541,0.1398,92.1,Over-hiring Post-COVID,,Medium
+Getir,Cybersecurity,UK,2023,10,Series D+,32675,979,0.03,674.2,Restructuring,,Low
+Wayfair,Social Media,India,2022,3,Series A,18175,598,0.0329,40.5,Over-hiring Post-COVID,,Low
+Cisco,Cybersecurity,USA,2022,8,Public,47298,7800,0.1649,3290.8,Product Pivot,-0.78,High
