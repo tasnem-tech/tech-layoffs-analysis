@@ -252,8 +252,8 @@ scikit-learn>=1.4.0
 
 <div align="center">
 
-**Tasnem Promy**
-MSc Data Analytics · Peterborough, UK
+**Tasnem Islam Prome**
+BSc Computer Science · London, UK
 
 [![GitHub](https://img.shields.io/badge/GitHub-tasnem--tech-181717?style=for-the-badge&logo=github)](https://github.com/tasnem-tech)
 
